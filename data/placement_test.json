@@ -1,0 +1,1215 @@
+{
+  "version": "2026.11.06",
+  "title": "اختبار تحديد المسار",
+  "purpose": "تشخيص تعليمي داخلي تقريبي متوافق مع أوصاف CEFR؛ ليس شهادة رسمية.",
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1",
+    "C2"
+  ],
+  "items": [
+    {
+      "id": "placement-a1-01",
+      "level": "A1",
+      "band_index": 0,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Example",
+      "options": [
+        "فكرة",
+        "سؤال",
+        "إجابة",
+        "مثال"
+      ],
+      "answer": 3,
+      "explanation_ar": "كلمة Example تعني: مثال."
+    },
+    {
+      "id": "placement-a1-02",
+      "level": "A1",
+      "band_index": 0,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Idea",
+      "options": [
+        "إجابة",
+        "المدينة الأم / مسقط الرأس",
+        "فكرة",
+        "سؤال"
+      ],
+      "answer": 2,
+      "explanation_ar": "كلمة Idea تعني: فكرة."
+    },
+    {
+      "id": "placement-a1-03",
+      "level": "A1",
+      "band_index": 0,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Question",
+      "options": [
+        "العمل",
+        "سؤال",
+        "إجابة",
+        "المدينة الأم / مسقط الرأس"
+      ],
+      "answer": 1,
+      "explanation_ar": "كلمة Question تعني: سؤال."
+    },
+    {
+      "id": "placement-a1-04",
+      "level": "A1",
+      "band_index": 0,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Answer",
+      "options": [
+        "إجابة",
+        "المدينة الأم / مسقط الرأس",
+        "العمل",
+        "الدراسة"
+      ],
+      "answer": 0,
+      "explanation_ar": "كلمة Answer تعني: إجابة."
+    },
+    {
+      "id": "placement-a1-05",
+      "level": "A1",
+      "band_index": 0,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ My hometown is a small city near the sea.",
+      "options": [
+        "يساعدنا السفر على التعرّف إلى ثقافات مختلفة.",
+        "تتناول عائلتي العشاء معًا كل يوم جمعة.",
+        "مدينتي الأم مدينة صغيرة قرب البحر.",
+        "يمنحني الطعام الطازج الطاقة طوال اليوم."
+      ],
+      "answer": 2,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-a1-06",
+      "level": "A1",
+      "band_index": 0,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ I work at a bookstore near my home.",
+      "options": [
+        "غالبًا ما يساعدني أصدقائي عندما أشعر بالقلق.",
+        "أعمل في مكتبة لبيع الكتب بالقرب من منزلي.",
+        "يساعدنا السفر على التعرّف إلى ثقافات مختلفة.",
+        "تتناول عائلتي العشاء معًا كل يوم جمعة."
+      ],
+      "answer": 1,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-a1-07",
+      "level": "A1",
+      "band_index": 0,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ I study English for thirty minutes each evening.",
+      "options": [
+        "أدرس الإنجليزية لمدة ثلاثين دقيقة كل مساء.",
+        "تتناول عائلتي العشاء معًا كل يوم جمعة.",
+        "غالبًا ما يساعدني أصدقائي عندما أشعر بالقلق.",
+        "حكى لنا قصة مضحكة عن وظيفته الأولى."
+      ],
+      "answer": 0,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-a1-08",
+      "level": "A1",
+      "band_index": 0,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ My favorite hobby is painting pictures of flowers.",
+      "options": [
+        "غالبًا ما يساعدني أصدقائي عندما أشعر بالقلق.",
+        "حكى لنا قصة مضحكة عن وظيفته الأولى.",
+        "يساعدني الروتين اليومي البسيط على تنظيم وقتي.",
+        "هوايتي المفضلة هي رسم صور للزهور."
+      ],
+      "answer": 3,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-a1-09",
+      "level": "A1",
+      "band_index": 0,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «ضمائر الفاعل والملكية»؟",
+      "options": [
+        "She works at a hospital, but she does not work on Friday.",
+        "My sister is a teacher. Her students are friendly.",
+        "Are you ready? — Yes, I am.",
+        "I have an umbrella and two books. The umbrella is blue."
+      ],
+      "answer": 1,
+      "explanation_ar": "نستخدم I, you, he, she, it, we, they للفاعل، وmy, your, his, her, its, our, their لبيان الملكية. اختر الضمير حسب من يقوم بالفعل، ثم استخدم ضمير الملكية قبل الاسم."
+    },
+    {
+      "id": "placement-a1-10",
+      "level": "A1",
+      "band_index": 0,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «فعل be في الإثبات والنفي والسؤال»؟",
+      "options": [
+        "Are you ready? — Yes, I am.",
+        "I have an umbrella and two books. The umbrella is blue.",
+        "She works at a hospital, but she does not work on Friday.",
+        "There are three chairs in the room."
+      ],
+      "answer": 0,
+      "explanation_ar": "يأتي am مع I، وis مع he/she/it، وare مع you/we/they. للنفي نضيف not، وللسؤال نقدم فعل be. استخدمه للتعريف والصفات والمكان والعمر."
+    },
+    {
+      "id": "placement-a1-11",
+      "level": "A1",
+      "band_index": 0,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «أدوات التنكير والتعريف والجمع»؟",
+      "options": [
+        "She works at a hospital, but she does not work on Friday.",
+        "There are three chairs in the room.",
+        "I have got a new phone.",
+        "I have an umbrella and two books. The umbrella is blue."
+      ],
+      "answer": 3,
+      "explanation_ar": "نستخدم a قبل اسم مفرد يبدأ بصوت ساكن، وan قبل صوت متحرك، وthe لشيء محدد، ونضيف s غالبًا للجمع. طبّقها عند ذكر الأشخاص والأشياء لأول مرة أو عند تحديدها."
+    },
+    {
+      "id": "placement-a1-12",
+      "level": "A1",
+      "band_index": 0,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «المضارع البسيط»؟",
+      "options": [
+        "I have got a new phone.",
+        "Can you help me? I can carry this bag.",
+        "She works at a hospital, but she does not work on Friday.",
+        "There are three chairs in the room."
+      ],
+      "answer": 2,
+      "explanation_ar": "يتكون من الفعل الأساسي، ونضيف s أو es مع he/she/it. في النفي والسؤال نستخدم do/does. للعادات والحقائق والروتين."
+    },
+    {
+      "id": "placement-a2-01",
+      "level": "A2",
+      "band_index": 1,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Pronunciation",
+      "options": [
+        "مفردات",
+        "القواعد",
+        "التشديد",
+        "النطق"
+      ],
+      "answer": 3,
+      "explanation_ar": "كلمة Pronunciation تعني: النطق."
+    },
+    {
+      "id": "placement-a2-02",
+      "level": "A2",
+      "band_index": 1,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Vocabulary",
+      "options": [
+        "التشديد",
+        "التعبير",
+        "مفردات",
+        "القواعد"
+      ],
+      "answer": 2,
+      "explanation_ar": "كلمة Vocabulary تعني: مفردات."
+    },
+    {
+      "id": "placement-a2-03",
+      "level": "A2",
+      "band_index": 1,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Grammar",
+      "options": [
+        "طبيعي",
+        "القواعد",
+        "التشديد",
+        "التعبير"
+      ],
+      "answer": 1,
+      "explanation_ar": "كلمة Grammar تعني: القواعد."
+    },
+    {
+      "id": "placement-a2-04",
+      "level": "A2",
+      "band_index": 1,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Stress",
+      "options": [
+        "التشديد",
+        "التعبير",
+        "طبيعي",
+        "واثق"
+      ],
+      "answer": 0,
+      "explanation_ar": "كلمة Stress تعني: التشديد."
+    },
+    {
+      "id": "placement-a2-05",
+      "level": "A2",
+      "band_index": 1,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ His expression showed that he was surprised.",
+      "options": [
+        "السبب الرئيسي لمشيي هو الحفاظ على صحتي.",
+        "قارن بين الصورتين وصِف الاختلافات بينهما.",
+        "أظهر تعبير وجهه أنه كان متفاجئًا.",
+        "ساعدتني تجربتي في إسبانيا على تحسين لغتي الإسبانية."
+      ],
+      "answer": 2,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-a2-06",
+      "level": "A2",
+      "band_index": 1,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Try to sound natural when you speak English.",
+      "options": [
+        "صِف مكانك المفضل في ثلاث جمل.",
+        "حاول أن يبدو كلامك طبيعيًا عندما تتحدث الإنجليزية.",
+        "السبب الرئيسي لمشيي هو الحفاظ على صحتي.",
+        "قارن بين الصورتين وصِف الاختلافات بينهما."
+      ],
+      "answer": 1,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-a2-07",
+      "level": "A2",
+      "band_index": 1,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ She felt confident during her first job interview.",
+      "options": [
+        "شعرت بالثقة خلال مقابلة العمل الأولى لها.",
+        "قارن بين الصورتين وصِف الاختلافات بينهما.",
+        "صِف مكانك المفضل في ثلاث جمل.",
+        "هل يمكنك شرح هذه الكلمة بلغة بسيطة؟"
+      ],
+      "answer": 0,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-a2-08",
+      "level": "A2",
+      "band_index": 1,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ One small detail can change the meaning of a sentence.",
+      "options": [
+        "صِف مكانك المفضل في ثلاث جمل.",
+        "هل يمكنك شرح هذه الكلمة بلغة بسيطة؟",
+        "أوافق على اقتراحك بأن نبدأ مبكرًا.",
+        "قد يغيّر تفصيل صغير معنى الجملة."
+      ],
+      "answer": 3,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-a2-09",
+      "level": "A2",
+      "band_index": 1,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «المضارع المستمر»؟",
+      "options": [
+        "I am going to study tonight. I will help you.",
+        "They are studying for their exam now.",
+        "We visited the museum last Saturday.",
+        "I was cooking when the phone rang."
+      ],
+      "answer": 1,
+      "explanation_ar": "يتكون من am/is/are + verb-ing ويصف فعلًا يحدث الآن أو حول الوقت الحالي. لما يحدث الآن أو مؤقتًا."
+    },
+    {
+      "id": "placement-a2-10",
+      "level": "A2",
+      "band_index": 1,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الماضي البسيط»؟",
+      "options": [
+        "We visited the museum last Saturday.",
+        "I was cooking when the phone rang.",
+        "I am going to study tonight. I will help you.",
+        "This book is more interesting than that one."
+      ],
+      "answer": 0,
+      "explanation_ar": "نستخدم التصريف الثاني أو ed للإثبات، وdid not + الفعل الأساسي للنفي والسؤال. للأحداث المنتهية في الماضي."
+    },
+    {
+      "id": "placement-a2-11",
+      "level": "A2",
+      "band_index": 1,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الماضي المستمر»؟",
+      "options": [
+        "I am going to study tonight. I will help you.",
+        "This book is more interesting than that one.",
+        "How many questions are there? We do not have much time.",
+        "I was cooking when the phone rang."
+      ],
+      "answer": 3,
+      "explanation_ar": "يتكون من was/were + verb-ing لوصف فعل كان مستمرًا في وقت ماضٍ. لوصف خلفية حدث أو فعل قطعه حدث آخر."
+    },
+    {
+      "id": "placement-a2-12",
+      "level": "A2",
+      "band_index": 1,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «المستقبل will وgoing to»؟",
+      "options": [
+        "How many questions are there? We do not have much time.",
+        "She has already finished her homework.",
+        "I am going to study tonight. I will help you.",
+        "This book is more interesting than that one."
+      ],
+      "answer": 2,
+      "explanation_ar": "نستخدم will للقرار أو التنبؤ، وbe going to للخطة أو الدليل الواضح. للتحدث عن المستقبل بطريقة دقيقة."
+    },
+    {
+      "id": "placement-b1-01",
+      "level": "B1",
+      "band_index": 2,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Accuracy",
+      "options": [
+        "التنغيم",
+        "التردد",
+        "التوقف المؤقت",
+        "الدقة"
+      ],
+      "answer": 3,
+      "explanation_ar": "كلمة Accuracy تعني: الدقة."
+    },
+    {
+      "id": "placement-b1-02",
+      "level": "B1",
+      "band_index": 2,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Intonation",
+      "options": [
+        "التوقف المؤقت",
+        "يوضّح",
+        "التنغيم",
+        "التردد"
+      ],
+      "answer": 2,
+      "explanation_ar": "كلمة Intonation تعني: التنغيم."
+    },
+    {
+      "id": "placement-b1-03",
+      "level": "B1",
+      "band_index": 2,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Hesitation",
+      "options": [
+        "يوسّع",
+        "التردد",
+        "التوقف المؤقت",
+        "يوضّح"
+      ],
+      "answer": 1,
+      "explanation_ar": "كلمة Hesitation تعني: التردد."
+    },
+    {
+      "id": "placement-b1-04",
+      "level": "B1",
+      "band_index": 2,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Pausing",
+      "options": [
+        "التوقف المؤقت",
+        "يوضّح",
+        "يوسّع",
+        "البيئة"
+      ],
+      "answer": 0,
+      "explanation_ar": "كلمة Pausing تعني: التوقف المؤقت."
+    },
+    {
+      "id": "placement-b1-05",
+      "level": "B1",
+      "band_index": 2,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Could you clarify what you mean by this sentence?",
+      "options": [
+        "كان تعلّم القيادة تحديًا، لكنني واصلت التدريب.",
+        "كان إنهاء كتابي الأول إنجازًا أشعر بالفخر به.",
+        "هل يمكنك توضيح ما تقصده بهذه الجملة؟",
+        "من فضلك أعطِ مثالًا محددًا لدعم فكرتك."
+      ],
+      "answer": 2,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-b1-06",
+      "level": "B1",
+      "band_index": 2,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Please expand your answer with one more reason.",
+      "options": [
+        "ساعدها اعتقادها بأهمية العمل الجاد على تحقيق أهدافها.",
+        "من فضلك وسّع إجابتك بإضافة سبب آخر.",
+        "كان تعلّم القيادة تحديًا، لكنني واصلت التدريب.",
+        "كان إنهاء كتابي الأول إنجازًا أشعر بالفخر به."
+      ],
+      "answer": 1,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-b1-07",
+      "level": "B1",
+      "band_index": 2,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ We should protect the environment for future generations.",
+      "options": [
+        "ينبغي أن نحمي البيئة من أجل الأجيال القادمة.",
+        "كان إنهاء كتابي الأول إنجازًا أشعر بالفخر به.",
+        "ساعدها اعتقادها بأهمية العمل الجاد على تحقيق أهدافها.",
+        "يمكن لموقف إيجابي أن يساعدك على التعلم من أخطائك."
+      ],
+      "answer": 0,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-b1-08",
+      "level": "B1",
+      "band_index": 2,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ A fair society gives everyone a chance to succeed.",
+      "options": [
+        "ساعدها اعتقادها بأهمية العمل الجاد على تحقيق أهدافها.",
+        "يمكن لموقف إيجابي أن يساعدك على التعلم من أخطائك.",
+        "كان انطباعي الأول عن المدينة إيجابيًا جدًا.",
+        "يمنح المجتمع العادل الجميع فرصة للنجاح."
+      ],
+      "answer": 3,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-b1-09",
+      "level": "B1",
+      "band_index": 2,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «المضارع التام مقابل الماضي البسيط»؟",
+      "options": [
+        "If I had more time, I would read every day.",
+        "I have visited Rome, but I visited it in 2022.",
+        "The film had started before we arrived.",
+        "I am meeting my tutor tomorrow."
+      ],
+      "answer": 1,
+      "explanation_ar": "المضارع التام مرتبط بالحاضر أو زمن غير محدد، والماضي البسيط لحدث منتهٍ بزمن محدد. لتمييز الخبرة عن حدث وقع في وقت معلوم."
+    },
+    {
+      "id": "placement-b1-10",
+      "level": "B1",
+      "band_index": 2,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الماضي التام»؟",
+      "options": [
+        "The film had started before we arrived.",
+        "I am meeting my tutor tomorrow.",
+        "If I had more time, I would read every day.",
+        "The bridge was built in 1990."
+      ],
+      "answer": 0,
+      "explanation_ar": "يتكون من had + التصريف الثالث، ويصف حدثًا وقع قبل حدث ماضٍ آخر. لترتيب حدثين في الماضي."
+    },
+    {
+      "id": "placement-b1-11",
+      "level": "B1",
+      "band_index": 2,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «صيغ المستقبل»؟",
+      "options": [
+        "If I had more time, I would read every day.",
+        "The bridge was built in 1990.",
+        "She said that she was tired.",
+        "I am meeting my tutor tomorrow."
+      ],
+      "answer": 3,
+      "explanation_ar": "نستخدم will وgoing to وpresent continuous للقرارات والتنبؤات والخطط المرتبة. لاختيار صيغة المستقبل حسب المعنى."
+    },
+    {
+      "id": "placement-b1-12",
+      "level": "B1",
+      "band_index": 2,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الشرط الثاني»؟",
+      "options": [
+        "She said that she was tired.",
+        "The teacher who helped me was patient.",
+        "If I had more time, I would read every day.",
+        "The bridge was built in 1990."
+      ],
+      "answer": 2,
+      "explanation_ar": "If + past simple، ثم would + verb لنتيجة افتراضية أو غير مرجحة. للافتراض والنصيحة والمواقف غير الواقعية."
+    },
+    {
+      "id": "placement-b2-01",
+      "level": "B2",
+      "band_index": 3,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Fluency",
+      "options": [
+        "ترابط الأفكار",
+        "حكاية قصيرة",
+        "تطوير الفكرة",
+        "الطلاقة"
+      ],
+      "answer": 3,
+      "explanation_ar": "كلمة Fluency تعني: الطلاقة."
+    },
+    {
+      "id": "placement-b2-02",
+      "level": "B2",
+      "band_index": 3,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Coherence",
+      "options": [
+        "تطوير الفكرة",
+        "الجملة الموضوعية",
+        "ترابط الأفكار",
+        "حكاية قصيرة"
+      ],
+      "answer": 2,
+      "explanation_ar": "كلمة Coherence تعني: ترابط الأفكار."
+    },
+    {
+      "id": "placement-b2-03",
+      "level": "B2",
+      "band_index": 3,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Anecdote",
+      "options": [
+        "إعادة الصياغة",
+        "حكاية قصيرة",
+        "تطوير الفكرة",
+        "الجملة الموضوعية"
+      ],
+      "answer": 1,
+      "explanation_ar": "كلمة Anecdote تعني: حكاية قصيرة."
+    },
+    {
+      "id": "placement-b2-04",
+      "level": "B2",
+      "band_index": 3,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Idea development",
+      "options": [
+        "تطوير الفكرة",
+        "الجملة الموضوعية",
+        "إعادة الصياغة",
+        "تبادل الأدوار"
+      ],
+      "answer": 0,
+      "explanation_ar": "كلمة Idea development تعني: تطوير الفكرة."
+    },
+    {
+      "id": "placement-b2-05",
+      "level": "B2",
+      "band_index": 3,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ A clear topic sentence tells readers what the paragraph is about.",
+      "options": [
+        "تجنب استخدام الكثير من كلمات الحشو عندما تتحدث.",
+        "أكّد المعلم على أهمية التحدث بوضوح.",
+        "توضح الجملة الموضوعية الواضحة للقراء موضوع الفقرة.",
+        "يمكن لاستراتيجية إجابة بسيطة أن توفر الوقت أثناء الامتحان."
+      ],
+      "answer": 2,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-b2-06",
+      "level": "B2",
+      "band_index": 3,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Paraphrasing helps you explain an idea in your own words.",
+      "options": [
+        "يمكن أن يؤدي تعلم نمط التشديد إلى تحسين نطقك.",
+        "تساعد إعادة الصياغة على شرح الفكرة بكلماتك الخاصة.",
+        "تجنب استخدام الكثير من كلمات الحشو عندما تتحدث.",
+        "أكّد المعلم على أهمية التحدث بوضوح."
+      ],
+      "answer": 1,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-b2-07",
+      "level": "B2",
+      "band_index": 3,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Good turn-taking helps everyone join the conversation.",
+      "options": [
+        "يساعد تبادل الأدوار الجيد الجميع على المشاركة في المحادثة.",
+        "أكّد المعلم على أهمية التحدث بوضوح.",
+        "يمكن أن يؤدي تعلم نمط التشديد إلى تحسين نطقك.",
+        "ارفع درجة صوتك قليلًا عند طرح سؤال."
+      ],
+      "answer": 0,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-b2-08",
+      "level": "B2",
+      "band_index": 3,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ The assessment includes speaking and listening.",
+      "options": [
+        "يمكن أن يؤدي تعلم نمط التشديد إلى تحسين نطقك.",
+        "ارفع درجة صوتك قليلًا عند طرح سؤال.",
+        "استمع إلى متحدثين أصليين لتتعلم الإيقاع الطبيعي.",
+        "يشمل التقييم مهارتي التحدث والاستماع."
+      ],
+      "answer": 3,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-b2-09",
+      "level": "B2",
+      "band_index": 3,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «المضارع التام المستمر»؟",
+      "options": [
+        "If I had studied medicine, I would be a doctor now.",
+        "I have been working here for three years.",
+        "They had been waiting for an hour when the bus came.",
+        "If I had known, I would have called you."
+      ],
+      "answer": 1,
+      "explanation_ar": "يتكون من have/has been + verb-ing ويركز على مدة نشاط بدأ في الماضي وما زال مؤثرًا. للتأكيد على المدة أو النشاط المستمر."
+    },
+    {
+      "id": "placement-b2-10",
+      "level": "B2",
+      "band_index": 3,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الماضي التام المستمر»؟",
+      "options": [
+        "They had been waiting for an hour when the bus came.",
+        "If I had known, I would have called you.",
+        "If I had studied medicine, I would be a doctor now.",
+        "The report is expected to be published soon."
+      ],
+      "answer": 0,
+      "explanation_ar": "يتكون من had been + verb-ing ويصف مدة نشاط قبل نقطة ماضية. لتوضيح مدة ما سبق حدثًا ماضيًا."
+    },
+    {
+      "id": "placement-b2-11",
+      "level": "B2",
+      "band_index": 3,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الشرط الثالث»؟",
+      "options": [
+        "If I had studied medicine, I would be a doctor now.",
+        "The report is expected to be published soon.",
+        "Had I known, I would have acted differently.",
+        "If I had known, I would have called you."
+      ],
+      "answer": 3,
+      "explanation_ar": "If + past perfect، ثم would have + past participle لنتيجة لم تحدث في الماضي. للندم والافتراضات الماضية."
+    },
+    {
+      "id": "placement-b2-12",
+      "level": "B2",
+      "band_index": 3,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الشرط المختلط»؟",
+      "options": [
+        "Had I known, I would have acted differently.",
+        "She must have forgotten the meeting.",
+        "If I had studied medicine, I would be a doctor now.",
+        "The report is expected to be published soon."
+      ],
+      "answer": 2,
+      "explanation_ar": "يمزج بين زمن ماضٍ ونتيجة حالية عندما يؤثر قرار ماضٍ في الحاضر. لشرح نتائج مستمرة لسبب ماضٍ."
+    },
+    {
+      "id": "placement-c1-01",
+      "level": "C1",
+      "band_index": 4,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Fluency markers",
+      "options": [
+        "وصف الدرجة",
+        "العلوم الإنسانية",
+        "مقالة افتتاحية",
+        "مؤشرات الطلاقة"
+      ],
+      "answer": 3,
+      "explanation_ar": "كلمة Fluency markers تعني: مؤشرات الطلاقة."
+    },
+    {
+      "id": "placement-c1-02",
+      "level": "C1",
+      "band_index": 4,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Band descriptor",
+      "options": [
+        "مقالة افتتاحية",
+        "استخراج المعلومات",
+        "وصف الدرجة",
+        "العلوم الإنسانية"
+      ],
+      "answer": 2,
+      "explanation_ar": "كلمة Band descriptor تعني: وصف الدرجة."
+    },
+    {
+      "id": "placement-c1-03",
+      "level": "C1",
+      "band_index": 4,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Humanities",
+      "options": [
+        "نص التسجيل الصوتي",
+        "العلوم الإنسانية",
+        "مقالة افتتاحية",
+        "استخراج المعلومات"
+      ],
+      "answer": 1,
+      "explanation_ar": "كلمة Humanities تعني: العلوم الإنسانية."
+    },
+    {
+      "id": "placement-c1-04",
+      "level": "C1",
+      "band_index": 4,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Editorial",
+      "options": [
+        "مقالة افتتاحية",
+        "استخراج المعلومات",
+        "نص التسجيل الصوتي",
+        "تفاوت / اختلاف"
+      ],
+      "answer": 0,
+      "explanation_ar": "كلمة Editorial تعني: مقالة افتتاحية."
+    },
+    {
+      "id": "placement-c1-05",
+      "level": "C1",
+      "band_index": 4,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Information retrieval is easier when you scan for key words.",
+      "options": [
+        "تجعل وحدة الموضوع الفقرة تركز على فكرة محورية واحدة.",
+        "ينبغي أن تعبّر عبارة الأطروحة عن الحجة الرئيسية بوضوح.",
+        "يسهل استخراج المعلومات عندما تبحث عن الكلمات المفتاحية.",
+        "تتحسن الاستجابة للمهمة عندما تدعم رأيك بالأسباب."
+      ],
+      "answer": 2,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-c1-06",
+      "level": "C1",
+      "band_index": 4,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Use the tapescript to check what you heard.",
+      "options": [
+        "توضح الحجة المعاكسة ما قد يقوله شخص لديه رأي مختلف.",
+        "استخدم نص التسجيل الصوتي للتحقق مما سمعته.",
+        "تجعل وحدة الموضوع الفقرة تركز على فكرة محورية واحدة.",
+        "ينبغي أن تعبّر عبارة الأطروحة عن الحجة الرئيسية بوضوح."
+      ],
+      "answer": 1,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-c1-07",
+      "level": "C1",
+      "band_index": 4,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ There is a discrepancy between the two reports.",
+      "options": [
+        "هناك اختلاف بين التقريرين.",
+        "ينبغي أن تعبّر عبارة الأطروحة عن الحجة الرئيسية بوضوح.",
+        "توضح الحجة المعاكسة ما قد يقوله شخص لديه رأي مختلف.",
+        "يوضح الرد على الحجة سبب عدم إقناع تلك الحجة المعارضة."
+      ],
+      "answer": 0,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-c1-08",
+      "level": "C1",
+      "band_index": 4,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Use linking words to improve cohesion in your essay.",
+      "options": [
+        "توضح الحجة المعاكسة ما قد يقوله شخص لديه رأي مختلف.",
+        "يوضح الرد على الحجة سبب عدم إقناع تلك الحجة المعارضة.",
+        "كشفت مراجعة الأقران نقاط ضعف أغفلها المؤلفون.",
+        "استخدم كلمات الربط لتحسين تماسك مقالك."
+      ],
+      "answer": 3,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-c1-09",
+      "level": "C1",
+      "band_index": 4,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «المبني للمجهول غير الشخصي»؟",
+      "options": [
+        "Never have I seen such a careful analysis.",
+        "It is widely believed that sleep improves memory.",
+        "Provided that the data are accurate, the conclusion is reasonable.",
+        "Having reviewed the evidence, the panel reached a decision."
+      ],
+      "answer": 1,
+      "explanation_ar": "نستخدم It is believed that وHe is thought to لنقل الاعتقاد أو التقرير بأسلوب رسمي. في التقارير والكتابة الأكاديمية."
+    },
+    {
+      "id": "placement-c1-10",
+      "level": "C1",
+      "band_index": 4,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الجمل الشرطية المعقدة»؟",
+      "options": [
+        "Provided that the data are accurate, the conclusion is reasonable.",
+        "Having reviewed the evidence, the panel reached a decision.",
+        "Never have I seen such a careful analysis.",
+        "What matters is the quality of the evidence."
+      ],
+      "answer": 0,
+      "explanation_ar": "نمزج الأزمنة ونستخدم unless وprovided that وas long as لتحديد الشروط الدقيقة. لتحليل العلاقات والنتائج المعقدة."
+    },
+    {
+      "id": "placement-c1-11",
+      "level": "C1",
+      "band_index": 4,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «جمل المشاركة»؟",
+      "options": [
+        "Never have I seen such a careful analysis.",
+        "What matters is the quality of the evidence.",
+        "The results appear to support the original hypothesis.",
+        "Having reviewed the evidence, the panel reached a decision."
+      ],
+      "answer": 3,
+      "explanation_ar": "يمكن اختصار جمل الوصل أو الجمل الزمنية باستخدام present أو past participle. لتقليل التكرار وجعل الأسلوب أكثر كثافة."
+    },
+    {
+      "id": "placement-c1-12",
+      "level": "C1",
+      "band_index": 4,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الانعكاس بعد العبارات السلبية»؟",
+      "options": [
+        "The results appear to support the original hypothesis.",
+        "The rapid expansion of the service created new demands.",
+        "Never have I seen such a careful analysis.",
+        "What matters is the quality of the evidence."
+      ],
+      "answer": 2,
+      "explanation_ar": "بعد never وrarely وnot only في بداية الجملة نستخدم ترتيب السؤال للتوكيد. في الأسلوب الرسمي والتوكيدي."
+    },
+    {
+      "id": "placement-c2-01",
+      "level": "C2",
+      "band_index": 5,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: epistemic humility",
+      "options": [
+        "افتراض مسبق",
+        "غير قابل للدفاع عنه؛ واهٍ",
+        "ملتبس؛ يحتمل أكثر من تفسير",
+        "التواضع المعرفي"
+      ],
+      "answer": 3,
+      "explanation_ar": "كلمة epistemic humility تعني: التواضع المعرفي."
+    },
+    {
+      "id": "placement-c2-02",
+      "level": "C2",
+      "band_index": 5,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: presupposition",
+      "options": [
+        "ملتبس؛ يحتمل أكثر من تفسير",
+        "اختزالي؛ مفرط في التبسيط",
+        "افتراض مسبق",
+        "غير قابل للدفاع عنه؛ واهٍ"
+      ],
+      "answer": 2,
+      "explanation_ar": "كلمة presupposition تعني: افتراض مسبق."
+    },
+    {
+      "id": "placement-c2-03",
+      "level": "C2",
+      "band_index": 5,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: untenable",
+      "options": [
+        "مقنع ومحكم",
+        "غير قابل للدفاع عنه؛ واهٍ",
+        "ملتبس؛ يحتمل أكثر من تفسير",
+        "اختزالي؛ مفرط في التبسيط"
+      ],
+      "answer": 1,
+      "explanation_ar": "كلمة untenable تعني: غير قابل للدفاع عنه؛ واهٍ."
+    },
+    {
+      "id": "placement-c2-04",
+      "level": "C2",
+      "band_index": 5,
+      "skill": "المفردات",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: equivocal",
+      "options": [
+        "ملتبس؛ يحتمل أكثر من تفسير",
+        "اختزالي؛ مفرط في التبسيط",
+        "مقنع ومحكم",
+        "قابل للتفنيد أو الاختبار"
+      ],
+      "answer": 0,
+      "explanation_ar": "كلمة equivocal تعني: ملتبس؛ يحتمل أكثر من تفسير."
+    },
+    {
+      "id": "placement-c2-05",
+      "level": "C2",
+      "band_index": 5,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Calling grief irrational is a reductive reading of a complex human response.",
+      "options": [
+        "تحد المعاهدة من السيادة من دون أن تلغي استقلال الجمهورية.",
+        "تصرف المسؤولون من دون مساءلة، فيما ظلت هيئات الرقابة خاضعة للتأثير السياسي.",
+        "وصف الحزن بأنه غير عقلاني قراءة اختزالية لاستجابة إنسانية معقدة.",
+        "تقتضي الإجراءات القانونية الواجبة جلسة محايدة قبل أن تفرض الدولة عقوبة."
+      ],
+      "answer": 2,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-c2-06",
+      "level": "C2",
+      "band_index": 5,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ She offered a cogent rebuttal grounded in painstaking archival research.",
+      "options": [
+        "هدد تعيين حزبي مصداقية اللجنة لدى الكتل المتنافسة.",
+        "قدمت ردًا مفحمًا ومحكمًا يستند إلى بحث أرشيفي دقيق.",
+        "تحد المعاهدة من السيادة من دون أن تلغي استقلال الجمهورية.",
+        "تصرف المسؤولون من دون مساءلة، فيما ظلت هيئات الرقابة خاضعة للتأثير السياسي."
+      ],
+      "answer": 1,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-c2-07",
+      "level": "C2",
+      "band_index": 5,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ A scientific claim must be falsifiable, not shielded from every test.",
+      "options": [
+        "يجب أن يكون الادعاء العلمي قابلًا للتفنيد، لا محصنًا ضد كل اختبار.",
+        "تصرف المسؤولون من دون مساءلة، فيما ظلت هيئات الرقابة خاضعة للتأثير السياسي.",
+        "هدد تعيين حزبي مصداقية اللجنة لدى الكتل المتنافسة.",
+        "استخدم أعضاء مجلس الشيوخ المعارضون المماطلة البرلمانية لتأخير مشروع القانون المختلف عليه."
+      ],
+      "answer": 0,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-c2-08",
+      "level": "C2",
+      "band_index": 5,
+      "skill": "فهم الجملة والسياق",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Her jurisprudence shaped the court's approach to privacy and state power.",
+      "options": [
+        "هدد تعيين حزبي مصداقية اللجنة لدى الكتل المتنافسة.",
+        "استخدم أعضاء مجلس الشيوخ المعارضون المماطلة البرلمانية لتأخير مشروع القانون المختلف عليه.",
+        "كبحت إجراءات التقشف الإنفاق، لكنها فاقمت معاناة الأسر منخفضة الدخل.",
+        "شكّل فقهها القانوني نهج المحكمة تجاه الخصوصية وسلطة الدولة."
+      ],
+      "answer": 3,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "placement-c2-09",
+      "level": "C2",
+      "band_index": 5,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الانعكاس والأسلوب الأدبي»؟",
+      "options": [
+        "We had the system tested by an independent team.",
+        "Only after the review was completed did the team publish the report.",
+        "She understands the issue, and so do I.",
+        "The policy aims to reduce costs, improve access, and protect quality."
+      ],
+      "answer": 1,
+      "explanation_ar": "يستخدم الانعكاس المتقدم لتغيير الإيقاع وإبراز النتيجة في الأسلوب الرسمي أو الأدبي. للكتابة الرفيعة والخطاب المؤثر."
+    },
+    {
+      "id": "placement-c2-10",
+      "level": "C2",
+      "band_index": 5,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الحذف والاستبدال»؟",
+      "options": [
+        "She understands the issue, and so do I.",
+        "The policy aims to reduce costs, improve access, and protect quality.",
+        "We had the system tested by an independent team.",
+        "But for your advice, I would have made a serious mistake."
+      ],
+      "answer": 0,
+      "explanation_ar": "نحذف العناصر المفهومة ونستخدم so وneither وdo so لتجنب التكرار مع الحفاظ على المعنى. في الحوار والكتابة المكثفة."
+    },
+    {
+      "id": "placement-c2-11",
+      "level": "C2",
+      "band_index": 5,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «التوازي والتوازن»؟",
+      "options": [
+        "We had the system tested by an independent team.",
+        "But for your advice, I would have made a serious mistake.",
+        "The change is bound to affect small businesses.",
+        "The policy aims to reduce costs, improve access, and protect quality."
+      ],
+      "answer": 3,
+      "explanation_ar": "نحافظ على البنية النحوية نفسها في عناصر القائمة أو المقارنة لزيادة الوضوح والقوة. في المقالات والخطب والكتابة المهنية."
+    },
+    {
+      "id": "placement-c2-12",
+      "level": "C2",
+      "band_index": 5,
+      "skill": "القواعد والاستعمال",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «المصدر المنصوب والسببية»؟",
+      "options": [
+        "The change is bound to affect small businesses.",
+        "We regret to inform you that the application was unsuccessful.",
+        "We had the system tested by an independent team.",
+        "But for your advice, I would have made a serious mistake."
+      ],
+      "answer": 2,
+      "explanation_ar": "نستخدم have/get something done وmake/let/have someone do لوصف الخدمات والتسبب في الفعل. للتعبير عن التكليف أو التأثير."
+    }
+  ],
+  "self_assessment": [
+    {
+      "id": "goal",
+      "label": "ما هدفك الأساسي من تعلم الإنجليزية؟",
+      "options": [
+        "التواصل اليومي",
+        "الدراسة والجامعة",
+        "العمل والتطور المهني",
+        "الاختبار أو السفر"
+      ]
+    },
+    {
+      "id": "exposure",
+      "label": "كم درست الإنجليزية من قبل؟",
+      "options": [
+        "لم أدرسها من قبل",
+        "أقل من سنة",
+        "من سنة إلى ثلاث سنوات",
+        "أكثر من ثلاث سنوات"
+      ]
+    },
+    {
+      "id": "confidence",
+      "label": "كيف تصف ثقتك الحالية؟",
+      "options": [
+        "أفهم كلمات قليلة",
+        "أفهم جملًا بسيطة",
+        "أفهم معظم المحادثات العامة",
+        "أفهم نصوصًا ومناقشات معقدة"
+      ]
+    },
+    {
+      "id": "practice",
+      "label": "كم تستطيع تخصيصه يوميًا؟",
+      "options": [
+        "10 دقائق",
+        "20 دقيقة",
+        "30 دقيقة",
+        "45 دقيقة أو أكثر"
+      ]
+    }
+  ],
+  "scoring": {
+    "questions_min": 15,
+    "questions_target": 18,
+    "pass_course_percent": 70,
+    "note": "يبدأ الاختبار من B1، ويتحرك نحو أسئلة أسهل أو أصعب بحسب الإجابات. النتيجة توصية لمسار التعلم وليست اعتمادًا رسميًا."
+  }
+}

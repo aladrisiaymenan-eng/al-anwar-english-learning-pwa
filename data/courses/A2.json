@@ -1,0 +1,2155 @@
+{
+  "title": "ما قبل المتوسط",
+  "band": "مستخدم أساسي",
+  "description": "إنجاز المهام الروتينية ووصف البيئة والخبرات والاحتياجات المباشرة.",
+  "themes": [
+    "السفر والمواصلات",
+    "العمل والدراسة",
+    "الصحة والرياضة",
+    "المطاعم والملابس",
+    "الخدمات والمواعيد",
+    "الإعلام والترفيه"
+  ],
+  "grammar": [
+    "المضارع المستمر",
+    "الماضي البسيط والمستمر",
+    "will وgoing to",
+    "can/could/should/must/have to",
+    "المقارنة والتفضيل",
+    "some/any وmuch/many",
+    "الضمائر والملكية",
+    "حروف الجر والاتجاه",
+    "because/but/so",
+    "المصدر للتعبير عن الغرض"
+  ],
+  "level": "A2",
+  "grammar_lessons": [
+    {
+      "id": "a2-grammar-01",
+      "title": "المضارع المستمر",
+      "explanation_ar": "يتكون من am/is/are + verb-ing ويصف فعلًا يحدث الآن أو حول الوقت الحالي.",
+      "how_to_apply_ar": "لما يحدث الآن أو مؤقتًا.",
+      "example": "They are studying for their exam now.",
+      "example_ar": "هم يدرسون لامتحانهم الآن.",
+      "common_mistake_ar": "لا نحذف فعل be: They studying خطأ.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «المضارع المستمر» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a2-grammar-02",
+      "title": "الماضي البسيط",
+      "explanation_ar": "نستخدم التصريف الثاني أو ed للإثبات، وdid not + الفعل الأساسي للنفي والسؤال.",
+      "how_to_apply_ar": "للأحداث المنتهية في الماضي.",
+      "example": "We visited the museum last Saturday.",
+      "example_ar": "زرنا المتحف السبت الماضي.",
+      "common_mistake_ar": "بعد did نستخدم الفعل الأساسي: Did you go?",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «الماضي البسيط» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a2-grammar-03",
+      "title": "الماضي المستمر",
+      "explanation_ar": "يتكون من was/were + verb-ing لوصف فعل كان مستمرًا في وقت ماضٍ.",
+      "how_to_apply_ar": "لوصف خلفية حدث أو فعل قطعه حدث آخر.",
+      "example": "I was cooking when the phone rang.",
+      "example_ar": "كنت أطبخ عندما رن الهاتف.",
+      "common_mistake_ar": "نستخدم was مع I/he/she/it وwere مع you/we/they.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «الماضي المستمر» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a2-grammar-04",
+      "title": "المستقبل will وgoing to",
+      "explanation_ar": "نستخدم will للقرار أو التنبؤ، وbe going to للخطة أو الدليل الواضح.",
+      "how_to_apply_ar": "للتحدث عن المستقبل بطريقة دقيقة.",
+      "example": "I am going to study tonight. I will help you.",
+      "example_ar": "سأدرس الليلة. سأساعدك.",
+      "common_mistake_ar": "لا ننسى فعل be قبل going to.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «المستقبل will وgoing to» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a2-grammar-05",
+      "title": "المقارنة والتفضيل",
+      "explanation_ar": "نضيف -er و-est للصفات القصيرة، ونستخدم more وmost للصفات الطويلة، مع than في المقارنة.",
+      "how_to_apply_ar": "لمقارنة شخصين أو أكثر.",
+      "example": "This book is more interesting than that one.",
+      "example_ar": "هذا الكتاب أكثر إثارة من ذلك.",
+      "common_mistake_ar": "لا نجمع more مع صيغة -er: more easier خطأ.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «المقارنة والتفضيل» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a2-grammar-06",
+      "title": "كميات some وany وmuch وmany",
+      "explanation_ar": "نستخدم many مع المعدود الجمع، much مع غير المعدود، وsome في الإثبات وany غالبًا في النفي والسؤال.",
+      "how_to_apply_ar": "للتحدث عن كمية غير محددة.",
+      "example": "How many questions are there? We do not have much time.",
+      "example_ar": "كم سؤالًا هناك؟ ليس لدينا وقت كثير.",
+      "common_mistake_ar": "time غير معدود، لذلك نقول much time.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «كميات some وany وmuch وmany» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a2-grammar-07",
+      "title": "المضارع التام الأساسي",
+      "explanation_ar": "يتكون من have/has + التصريف الثالث، ويصل الماضي بالحاضر أو يصف خبرة.",
+      "how_to_apply_ar": "للخبرات والنتائج والأحداث غير المحددة بزمن منتهٍ.",
+      "example": "She has already finished her homework.",
+      "example_ar": "لقد أنهت واجبها بالفعل.",
+      "common_mistake_ar": "لا نستخدم yesterday مع المضارع التام في هذا المعنى.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «المضارع التام الأساسي» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a2-grammar-08",
+      "title": "must وhave to وshould",
+      "explanation_ar": "must وhave to للضرورة، should للنصيحة، ويمكن استعمال mustn’t للمنع.",
+      "how_to_apply_ar": "للقواعد والواجبات والنصائح.",
+      "example": "You should drink water, but you must not drive fast.",
+      "example_ar": "ينبغي أن تشرب الماء، لكن يجب ألا تقود بسرعة.",
+      "common_mistake_ar": "mustn’t تعني ممنوع، وليست فقط عدم الوجوب.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «must وhave to وshould» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a2-grammar-09",
+      "title": "الشرط الأول",
+      "explanation_ar": "يتكون من If + present simple، ثم will + verb للنتيجة المستقبلية.",
+      "how_to_apply_ar": "لنتيجة محتملة إذا تحقق الشرط.",
+      "example": "If it rains, we will stay at home.",
+      "example_ar": "إذا أمطرت، سنبقى في المنزل.",
+      "common_mistake_ar": "لا نستخدم will بعد if في الشرط الأول.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «الشرط الأول» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a2-grammar-10",
+      "title": "Infinitive وGerund",
+      "explanation_ar": "يأتي to + الفعل بعد أفعال معينة، ويأتي verb-ing بعد أفعال أخرى مثل enjoy وavoid.",
+      "how_to_apply_ar": "للتحدث عن الأهداف والأنشطة والتفضيلات.",
+      "example": "I want to learn, and I enjoy practicing.",
+      "example_ar": "أريد أن أتعلم وأستمتع بالتدرب.",
+      "common_mistake_ar": "بعد enjoy نقول practicing وليس to practice.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «Infinitive وGerund» ثم قارنها بالمثال."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "a2-vocab-001",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Pronunciation",
+      "meaning": "النطق",
+      "sentence": "Clear pronunciation helps people understand your message.",
+      "sentence_ar": "يساعد النطق الواضح الناس على فهم رسالتك.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-002",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Vocabulary",
+      "meaning": "مفردات",
+      "sentence": "Reading every day can help you build your vocabulary.",
+      "sentence_ar": "يمكن أن تساعدك القراءة يوميًا على توسيع مفرداتك.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-003",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Grammar",
+      "meaning": "القواعد",
+      "sentence": "Good grammar makes your writing easier to understand.",
+      "sentence_ar": "تجعل القواعد الجيدة كتابتك أسهل للفهم.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-004",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Stress",
+      "meaning": "التشديد",
+      "sentence": "Put stress on the first syllable of this word.",
+      "sentence_ar": "شدد على المقطع الأول من هذه الكلمة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-005",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Expression",
+      "meaning": "التعبير",
+      "sentence": "His expression showed that he was surprised.",
+      "sentence_ar": "أظهر تعبير وجهه أنه كان متفاجئًا.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-006",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Natural",
+      "meaning": "طبيعي",
+      "sentence": "Try to sound natural when you speak English.",
+      "sentence_ar": "حاول أن يبدو كلامك طبيعيًا عندما تتحدث الإنجليزية.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-007",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Confident",
+      "meaning": "واثق",
+      "sentence": "She felt confident during her first job interview.",
+      "sentence_ar": "شعرت بالثقة خلال مقابلة العمل الأولى لها.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-008",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Detail",
+      "meaning": "تفصيل",
+      "sentence": "One small detail can change the meaning of a sentence.",
+      "sentence_ar": "قد يغيّر تفصيل صغير معنى الجملة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-009",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Opinion",
+      "meaning": "رأي",
+      "sentence": "In my opinion, this is the best way to learn.",
+      "sentence_ar": "في رأيي، هذه أفضل طريقة للتعلم.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-010",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Experience",
+      "meaning": "تجربة",
+      "sentence": "My experience in Spain helped me improve my Spanish.",
+      "sentence_ar": "ساعدتني تجربتي في إسبانيا على تحسين لغتي الإسبانية.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-011",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Reason",
+      "meaning": "سبب",
+      "sentence": "The main reason I walk is to stay healthy.",
+      "sentence_ar": "السبب الرئيسي لمشيي هو الحفاظ على صحتي.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-012",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Compare",
+      "meaning": "يقارن",
+      "sentence": "Compare the two pictures and describe their differences.",
+      "sentence_ar": "قارن بين الصورتين وصِف الاختلافات بينهما.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-013",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Describe",
+      "meaning": "يصف",
+      "sentence": "Describe your favorite place in three sentences.",
+      "sentence_ar": "صِف مكانك المفضل في ثلاث جمل.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-014",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Explain",
+      "meaning": "يشرح",
+      "sentence": "Could you explain this word in simple language?",
+      "sentence_ar": "هل يمكنك شرح هذه الكلمة بلغة بسيطة؟",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-015",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Agree",
+      "meaning": "يوافق",
+      "sentence": "I agree with your suggestion to start earlier.",
+      "sentence_ar": "أوافق على اقتراحك بأن نبدأ مبكرًا.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-016",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Disagree",
+      "meaning": "لا يوافق",
+      "sentence": "I disagree with that plan because it costs too much.",
+      "sentence_ar": "لا أوافق على تلك الخطة لأنها تكلف كثيرًا.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-017",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Topic",
+      "meaning": "موضوع",
+      "sentence": "Today's topic is the importance of clean water.",
+      "sentence_ar": "موضوع اليوم هو أهمية المياه النظيفة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-018",
+      "section": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50",
+      "word": "Introduction",
+      "meaning": "مقدمة",
+      "sentence": "The introduction explains the topic and presents the writer’s opinion.",
+      "sentence_ar": "تشرح المقدمة الموضوع وتعرض رأي الكاتب.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-019",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Future",
+      "meaning": "المستقبل",
+      "sentence": "The future may bring many exciting changes.",
+      "sentence_ar": "قد يحمل المستقبل تغييرات كثيرة ومثيرة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-020",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Technology",
+      "meaning": "التقنية",
+      "sentence": "Technology makes it easier to stay connected.",
+      "sentence_ar": "تجعل التقنية البقاء على تواصل أسهل.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-021",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Culture",
+      "meaning": "الثقافة",
+      "sentence": "Music is an important part of our culture.",
+      "sentence_ar": "الموسيقى جزء مهم من ثقافتنا.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-022",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Opinion question",
+      "meaning": "سؤال رأي",
+      "sentence": "The teacher asked us an opinion question about school uniforms.",
+      "sentence_ar": "طرح المعلم علينا سؤال رأي عن الزي المدرسي.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-023",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Personal question",
+      "meaning": "سؤال شخصي",
+      "sentence": "You can skip a personal question if it feels uncomfortable.",
+      "sentence_ar": "يمكنك تخطي سؤال شخصي إذا كان يسبب لك عدم الارتياح.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-024",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "General topic",
+      "meaning": "موضوع عام",
+      "sentence": "Our class discussed a general topic: healthy eating.",
+      "sentence_ar": "ناقش صفنا موضوعًا عامًا: الأكل الصحي.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-025",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100",
+      "word": "Past experience",
+      "meaning": "تجربة سابقة",
+      "sentence": "That past experience taught me to be more patient.",
+      "sentence_ar": "علّمتني تلك التجربة السابقة أن أكون أكثر صبرًا.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-026",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100",
+      "word": "Future plan",
+      "meaning": "خطة مستقبلية",
+      "sentence": "My future plan is to study nursing at university.",
+      "sentence_ar": "خطتي المستقبلية هي دراسة التمريض في الجامعة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-027",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100",
+      "word": "Memory",
+      "meaning": "ذكرى",
+      "sentence": "My favorite memory is our family picnic by the sea.",
+      "sentence_ar": "ذكراي المفضلة هي نزهتنا العائلية بجانب البحر.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-028",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100",
+      "word": "Response",
+      "meaning": "استجابة",
+      "sentence": "Her quick response answered all of our questions.",
+      "sentence_ar": "أجابت استجابتها السريعة عن جميع أسئلتنا.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-029",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100",
+      "word": "Note card",
+      "meaning": "بطاقة ملاحظات",
+      "sentence": "I wrote three key ideas on my note card.",
+      "sentence_ar": "كتبت ثلاث أفكار رئيسية على بطاقة ملاحظاتي.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-030",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Practice",
+      "meaning": "تدريب",
+      "sentence": "Regular practice helps you speak more clearly.",
+      "sentence_ar": "تساعدك الممارسة المنتظمة على التحدث بوضوح أكبر.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-031",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100",
+      "word": "Eye contact",
+      "meaning": "التواصل البصري",
+      "sentence": "Good eye contact helps you connect with listeners.",
+      "sentence_ar": "يساعد التواصل البصري الجيد على التواصل مع المستمعين.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-032",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100",
+      "word": "Relaxed",
+      "meaning": "مسترخٍ",
+      "sentence": "I feel relaxed when I practice with a friend.",
+      "sentence_ar": "أشعر بالاسترخاء عندما أتدرب مع صديق.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-033",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Paragraph",
+      "meaning": "فقرة",
+      "sentence": "Each paragraph should focus on one main idea.",
+      "sentence_ar": "ينبغي أن تركز كل فقرة على فكرة رئيسية واحدة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-034",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Headings",
+      "meaning": "عناوين",
+      "sentence": "The headings helped me find the right section quickly.",
+      "sentence_ar": "ساعدتني العناوين على العثور على القسم المناسب بسرعة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-035",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Fact",
+      "meaning": "حقيقة",
+      "sentence": "It is a fact that water freezes at zero degrees Celsius.",
+      "sentence_ar": "من الحقائق أن الماء يتجمد عند صفر درجة مئوية.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-036",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Match",
+      "meaning": "يطابق",
+      "sentence": "Match each word with its correct definition.",
+      "sentence_ar": "طابق كل كلمة مع تعريفها الصحيح.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-037",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Label",
+      "meaning": "تسمية",
+      "sentence": "Label each part of the plant in the diagram.",
+      "sentence_ar": "ضع تسمية لكل جزء من أجزاء النبات في الرسم التوضيحي.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-038",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Understanding",
+      "meaning": "فهم",
+      "sentence": "Understanding the instructions helped me finish the task quickly.",
+      "sentence_ar": "ساعدني فهم التعليمات على إنجاز المهمة بسرعة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-039",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Solution",
+      "meaning": "حل",
+      "sentence": "The teacher suggested a simple solution to the problem.",
+      "sentence_ar": "اقترح المعلم حلاً بسيطاً للمشكلة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-040",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Cause",
+      "meaning": "سبب",
+      "sentence": "A lack of sleep is a common cause of poor concentration.",
+      "sentence_ar": "قلة النوم سبب شائع لضعف التركيز.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-041",
+      "section": "قسم القراءة (Reading) - الكلمات من 51 إلى 100",
+      "word": "Purpose",
+      "meaning": "الهدف / الغرض",
+      "sentence": "The purpose of this lesson is to build confidence.",
+      "sentence_ar": "الغرض من هذا الدرس هو بناء الثقة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-042",
+      "section": "قسم القراءة (Reading) - الكلمات من 51 إلى 100",
+      "word": "Description",
+      "meaning": "وصف",
+      "sentence": "The guide includes a short description of each place.",
+      "sentence_ar": "يتضمن الدليل وصفاً قصيراً لكل مكان.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-043",
+      "section": "قسم القراءة (Reading) - الكلمات من 51 إلى 100",
+      "word": "Process",
+      "meaning": "عملية",
+      "sentence": "The process takes three steps and about ten minutes.",
+      "sentence_ar": "تتكون العملية من ثلاث خطوات وتستغرق نحو عشر دقائق.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-044",
+      "section": "قسم القراءة (Reading) - الكلمات من 51 إلى 100",
+      "word": "Fill in gaps",
+      "meaning": "ملء الفراغات",
+      "sentence": "Fill in gaps with the words from the box.",
+      "sentence_ar": "املأ الفراغات بالكلمات الموجودة في المربع.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-045",
+      "section": "قسم القراءة (Reading) - الكلمات من 51 إلى 100",
+      "word": "Reading speed",
+      "meaning": "سرعة القراءة",
+      "sentence": "Reading speed often improves with regular practice.",
+      "sentence_ar": "غالبًا ما تتحسن سرعة القراءة مع التدريب المنتظم.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-046",
+      "section": "قسم القراءة (Reading) - الكلمات من 51 إلى 100",
+      "word": "Agreement",
+      "meaning": "توافق",
+      "sentence": "Agreement between the two reports supports the conclusion.",
+      "sentence_ar": "يدعم التوافق بين التقريرين هذا الاستنتاج.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-047",
+      "section": "قسم القراءة (Reading) - الكلمات من 51 إلى 100",
+      "word": "Connect",
+      "meaning": "يربط",
+      "sentence": "Connect each example to the idea it supports.",
+      "sentence_ar": "اربط كل مثال بالفكرة التي يدعمها.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-048",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Conversation",
+      "meaning": "محادثة",
+      "sentence": "We had a short conversation about the new course.",
+      "sentence_ar": "أجرينا محادثة قصيرة عن الدورة الجديدة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-049",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Background",
+      "meaning": "خلفية",
+      "sentence": "The background of the story is a small village.",
+      "sentence_ar": "تدور خلفية القصة حول قرية صغيرة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-050",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Comment",
+      "meaning": "تعليق",
+      "sentence": "He left a kind comment on my essay.",
+      "sentence_ar": "كتب تعليقًا لطيفًا على مقالتي.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-051",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Mention",
+      "meaning": "يذكر",
+      "sentence": "She did not mention the reason for her absence.",
+      "sentence_ar": "لم تذكر سبب غيابها.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-052",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Suggest",
+      "meaning": "يقترح",
+      "sentence": "I suggest taking the earlier train to avoid traffic.",
+      "sentence_ar": "أقترح أن تستقل القطار الأسبق لتجنب الازدحام.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-053",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Accent",
+      "meaning": "لهجة",
+      "sentence": "She speaks English with a slight Spanish accent.",
+      "sentence_ar": "تتحدث الإنجليزية بلهجة إسبانية خفيفة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-054",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Question type",
+      "meaning": "نوع السؤال",
+      "sentence": "This question type asks you to choose one answer.",
+      "sentence_ar": "يطلب منك هذا النوع من الأسئلة اختيار إجابة واحدة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-055",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Multiple choice",
+      "meaning": "اختيار من متعدد",
+      "sentence": "The test includes a multiple choice section.",
+      "sentence_ar": "يتضمن الاختبار قسمًا للاختيار من متعدد.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-056",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Matching",
+      "meaning": "مطابقة",
+      "sentence": "Matching words with pictures makes learning more fun.",
+      "sentence_ar": "تجعل مطابقة الكلمات بالصور التعلّم أكثر متعة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-057",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Fill in the blanks",
+      "meaning": "املأ الفراغات",
+      "sentence": "The worksheet asks us to fill in the blanks.",
+      "sentence_ar": "تطلب منا ورقة العمل ملء الفراغات.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-058",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Instructions",
+      "meaning": "تعليمات",
+      "sentence": "Read the instructions before you start the exercise.",
+      "sentence_ar": "اقرأ التعليمات قبل أن تبدأ التمرين.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-059",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Time limit",
+      "meaning": "حد الوقت",
+      "sentence": "You have ten minutes; the time limit is strict.",
+      "sentence_ar": "لديك عشر دقائق؛ والحد الزمني صارم.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-060",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Review",
+      "meaning": "مراجعة",
+      "sentence": "I read the review before choosing a new phone.",
+      "sentence_ar": "قرأت المراجعة قبل اختيار هاتف جديد.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-061",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Section",
+      "meaning": "قسم",
+      "sentence": "This section explains how plants make food.",
+      "sentence_ar": "يشرح هذا القسم كيف تصنع النباتات غذاءها.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-062",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Identify",
+      "meaning": "يحدد",
+      "sentence": "Identify the main idea in the first paragraph.",
+      "sentence_ar": "حدّد الفكرة الرئيسية في الفقرة الأولى.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "word": "order",
+      "meaning": "يطلب",
+      "sentence": "We ordered soup and bread while waiting for dinner.",
+      "sentence_ar": "طلبنا الحساء والخبز بينما كنا ننتظر العشاء.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-063",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "id": "a2-vocab-064",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Pause",
+      "meaning": "إيقاف مؤقت",
+      "sentence": "Pause the video if you need to take notes.",
+      "sentence_ar": "أوقف الفيديو مؤقتًا إذا احتجت إلى تدوين الملاحظات.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-065",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Replay",
+      "meaning": "إعادة تشغيل",
+      "sentence": "Replay the recording to hear the name again.",
+      "sentence_ar": "أعِد تشغيل التسجيل لسماع الاسم مرة أخرى.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-066",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Section number",
+      "meaning": "رقم القسم",
+      "sentence": "Write the section number beside each answer.",
+      "sentence_ar": "اكتب رقم القسم بجانب كل إجابة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-067",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Speaker change",
+      "meaning": "تغيير المتحدث",
+      "sentence": "A speaker change occurs after the short musical break.",
+      "sentence_ar": "يحدث تغيير في المتحدث بعد الاستراحة الموسيقية القصيرة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-068",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Audio",
+      "meaning": "صوت",
+      "sentence": "The audio is clear, so I can hear every word.",
+      "sentence_ar": "الصوت واضح، لذا أستطيع سماع كل كلمة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-069",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Recording",
+      "meaning": "تسجيل",
+      "sentence": "The recording stopped when my phone ran out of battery.",
+      "sentence_ar": "توقف التسجيل عندما نفدت بطارية هاتفي.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-070",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Volume",
+      "meaning": "حجم الصوت",
+      "sentence": "Turn down the volume; the music is too loud.",
+      "sentence_ar": "اخفض مستوى الصوت؛ فالموسيقى مرتفعة جدًا.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-071",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Error",
+      "meaning": "خطأ",
+      "sentence": "I found an error in the address and corrected it.",
+      "sentence_ar": "وجدت خطأً في العنوان وصححته.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-072",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Correction",
+      "meaning": "تصحيح",
+      "sentence": "The teacher made a small correction to my answer.",
+      "sentence_ar": "أجرى المعلم تصحيحًا بسيطًا لإجابتي.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-073",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Attention",
+      "meaning": "انتباه",
+      "sentence": "Please pay attention to the final instruction.",
+      "sentence_ar": "يرجى الانتباه إلى التعليمات الأخيرة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-074",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Recognize",
+      "meaning": "يتعرف على",
+      "sentence": "I recognize her voice, but I cannot remember her name.",
+      "sentence_ar": "أتعرف على صوتها، لكنني لا أستطيع تذكر اسمها.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-075",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Visual",
+      "meaning": "مرئي",
+      "sentence": "The visual instructions made the process easy to follow.",
+      "sentence_ar": "جعلت التعليمات المرئية اتباع الخطوات سهلًا.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-076",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Main point",
+      "meaning": "النقطة الأساسية",
+      "sentence": "The main point of the story is easy to understand.",
+      "sentence_ar": "من السهل فهم النقطة الأساسية في القصة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-077",
+      "section": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50",
+      "word": "Task",
+      "meaning": "مهمة",
+      "sentence": "Our first task is to find information about local parks.",
+      "sentence_ar": "مهمتنا الأولى هي العثور على معلومات عن الحدائق المحلية.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a2-vocab-078",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Effect",
+      "meaning": "نتيجة",
+      "sentence": "One effect of regular exercise is better sleep.",
+      "sentence_ar": "من نتائج ممارسة الرياضة بانتظام تحسن النوم.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-079",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Chart",
+      "meaning": "رسم بياني",
+      "sentence": "This chart compares monthly sales in three different stores.",
+      "sentence_ar": "يقارن هذا الرسم البياني المبيعات الشهرية في ثلاثة متاجر مختلفة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-080",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Graph",
+      "meaning": "مخطط بياني",
+      "sentence": "The graph shows how temperatures changed during the week.",
+      "sentence_ar": "يوضح المخطط البياني كيف تغيرت درجات الحرارة خلال الأسبوع.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-081",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Diagram",
+      "meaning": "رسم توضيحي",
+      "sentence": "The diagram explains how water moves through the plant.",
+      "sentence_ar": "يوضح الرسم التوضيحي كيفية انتقال الماء عبر النبات.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-082",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Increase",
+      "meaning": "ارتفاع / زيادة",
+      "sentence": "Visitor numbers increase every summer.",
+      "sentence_ar": "يزداد عدد الزوار كل صيف.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-083",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Decrease",
+      "meaning": "انخفاض / نقصان",
+      "sentence": "The decrease in costs helped the company save money.",
+      "sentence_ar": "ساعد انخفاض التكاليف الشركة على توفير المال.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-084",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Rise",
+      "meaning": "صعود / ارتفاع",
+      "sentence": "There was a sharp rise in food prices last month.",
+      "sentence_ar": "حدث ارتفاع حاد في أسعار الطعام الشهر الماضي.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-085",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Fall",
+      "meaning": "هبوط / انخفاض",
+      "sentence": "A sudden fall in temperature surprised everyone last night.",
+      "sentence_ar": "فاجأ الانخفاض المفاجئ في درجة الحرارة الجميع ليلة أمس.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-086",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Rapid",
+      "meaning": "سريع",
+      "sentence": "There was rapid growth in users after the update.",
+      "sentence_ar": "حدث نمو سريع في عدد المستخدمين بعد التحديث.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-087",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Such as",
+      "meaning": "مثل",
+      "sentence": "We grow vegetables such as tomatoes and carrots.",
+      "sentence_ar": "نزرع خضروات مثل الطماطم والجزر.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-088",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "In my opinion",
+      "meaning": "في رأيي",
+      "sentence": "In my opinion, learning languages opens many doors.",
+      "sentence_ar": "في رأيي، يفتح تعلم اللغات أبوابًا كثيرة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-089",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "I believe",
+      "meaning": "أعتقد",
+      "sentence": "I believe everyone should have access to clean water.",
+      "sentence_ar": "أعتقد أن الجميع ينبغي أن يحصلوا على مياه نظيفة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-090",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Recently",
+      "meaning": "مؤخراً",
+      "sentence": "Recently, my neighbors adopted a small dog.",
+      "sentence_ar": "مؤخرًا، تبنى جيراني كلبًا صغيرًا.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-091",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Simply",
+      "meaning": "ببساطة",
+      "sentence": "Simply follow the signs to reach the station.",
+      "sentence_ar": "ببساطة، اتبع اللافتات للوصول إلى المحطة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-092",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Weak",
+      "meaning": "ضعيف",
+      "sentence": "The signal is weak inside this building.",
+      "sentence_ar": "الإشارة ضعيفة داخل هذا المبنى.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-093",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Impossible",
+      "meaning": "مستحيل",
+      "sentence": "It is impossible to finish everything in one hour.",
+      "sentence_ar": "من المستحيل إنجاز كل شيء في ساعة واحدة.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-094",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Necessary",
+      "meaning": "ضروري",
+      "sentence": "A passport is necessary for international travel.",
+      "sentence_ar": "جواز السفر ضروري للسفر إلى الخارج.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-095",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Currently",
+      "meaning": "حالياً",
+      "sentence": "Currently, she works at a small hospital.",
+      "sentence_ar": "تعمل حالياً في مستشفى صغير.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-096",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Probably",
+      "meaning": "على الأرجح",
+      "sentence": "They will probably arrive before sunset.",
+      "sentence_ar": "على الأرجح سيصلون قبل غروب الشمس.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a2-vocab-097",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Advantage",
+      "meaning": "ميزة",
+      "sentence": "One advantage of this phone is its long battery life.",
+      "sentence_ar": "من مزايا هذا الهاتف أن بطاريته تدوم طويلاً.",
+      "level": "A2",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "word": "passport",
+      "meaning": "جواز سفر",
+      "sentence": "Keep your passport in a safe pocket during the trip.",
+      "sentence_ar": "احتفظ بجواز سفرك في جيب آمن أثناء الرحلة.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-098",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "suitcase",
+      "meaning": "حقيبة سفر",
+      "sentence": "My suitcase is too heavy, so I removed two books.",
+      "sentence_ar": "حقيبة سفري ثقيلة جدًا، لذا أخرجت كتابين منها.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-099",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "platform",
+      "meaning": "رصيف القطار",
+      "sentence": "We waited on platform three for the evening train.",
+      "sentence_ar": "انتظرنا على الرصيف الثالث قطار المساء.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-100",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "return ticket",
+      "meaning": "تذكرة ذهاب وإياب",
+      "sentence": "A return ticket to Oxford costs less than two singles.",
+      "sentence_ar": "تكلفة تذكرة ذهاب وإياب إلى أكسفورد أقل من تكلفة تذكرتين باتجاه واحد.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-101",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "bus stop",
+      "meaning": "موقف الحافلة",
+      "sentence": "The bus stop is beside the small supermarket.",
+      "sentence_ar": "موقف الحافلة بجانب المتجر الصغير.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-102",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "traffic",
+      "meaning": "حركة المرور",
+      "sentence": "Heavy traffic made our taxi late for the airport.",
+      "sentence_ar": "جعلت حركة المرور الكثيفة سيارة الأجرة تتأخر عن موعدها إلى المطار.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-103",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "rent a car",
+      "meaning": "يستأجر سيارة",
+      "sentence": "We plan to rent a car near the station.",
+      "sentence_ar": "نخطط لاستئجار سيارة بالقرب من المحطة.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-104",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "colleague",
+      "meaning": "زميل في العمل",
+      "sentence": "My colleague works in the same office as me.",
+      "sentence_ar": "يعمل زميلي في المكتب نفسه الذي أعمل فيه.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-105",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "salary",
+      "meaning": "راتب",
+      "sentence": "Her salary arrives in her bank account every Friday.",
+      "sentence_ar": "يُودَع راتبها في حسابها المصرفي كل يوم جمعة.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-106",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "schedule",
+      "meaning": "جدول",
+      "sentence": "Our work schedule starts at eight on Monday.",
+      "sentence_ar": "يبدأ جدول عملنا عند الساعة الثامنة يوم الاثنين.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-107",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "uniform",
+      "meaning": "زي موحّد",
+      "sentence": "The hotel staff wear a clean blue uniform.",
+      "sentence_ar": "يرتدي موظفو الفندق زيًا موحدًا أزرق ونظيفًا.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-108",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "homework",
+      "meaning": "واجب منزلي",
+      "sentence": "I finish my homework before dinner each evening.",
+      "sentence_ar": "أنهي واجبي المنزلي قبل العشاء كل مساء.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-109",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "borrow",
+      "meaning": "يستعير",
+      "sentence": "Can I borrow your dictionary until tomorrow morning?",
+      "sentence_ar": "هل يمكنني استعارة قاموسك حتى صباح الغد؟",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-110",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "library",
+      "meaning": "مكتبة",
+      "sentence": "The library closes at six, so we study there early.",
+      "sentence_ar": "تغلق المكتبة عند السادسة، لذلك ندرس فيها مبكرًا.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-111",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "headache",
+      "meaning": "صداع",
+      "sentence": "I have a headache, so I am going to bed early.",
+      "sentence_ar": "أشعر بصداع، لذا سأذهب إلى النوم مبكرًا.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-112",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "cough",
+      "meaning": "سعال",
+      "sentence": "His cough became worse after the cold night.",
+      "sentence_ar": "ازداد سعاله سوءًا بعد الليلة الباردة.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-113",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "medicine",
+      "meaning": "دواء",
+      "sentence": "Take this medicine after breakfast with a glass of water.",
+      "sentence_ar": "تناول هذا الدواء بعد الإفطار مع كوب من الماء.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-114",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "dentist",
+      "meaning": "طبيب أسنان",
+      "sentence": "Nadia visits the dentist twice a year for a check-up.",
+      "sentence_ar": "تزور نادية طبيب الأسنان مرتين في السنة لإجراء فحص.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-115",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "exercise",
+      "meaning": "تمرين رياضي",
+      "sentence": "Walking for twenty minutes is good exercise before work.",
+      "sentence_ar": "يُعد المشي لمدة عشرين دقيقة تمرينًا جيدًا قبل العمل.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-116",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "swimming",
+      "meaning": "السباحة",
+      "sentence": "Swimming at the local pool helps me feel strong.",
+      "sentence_ar": "تساعدني السباحة في المسبح القريب على الشعور بالقوة.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-117",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "trainer",
+      "meaning": "مدرّب",
+      "sentence": "The trainer showed us three easy moves at the gym.",
+      "sentence_ar": "أرانا المدرب ثلاث حركات سهلة في النادي الرياضي.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-118",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "appointment",
+      "meaning": "موعد",
+      "sentence": "I have a doctor's appointment at half past two.",
+      "sentence_ar": "لدي موعد عند الطبيب في الثانية والنصف.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-119",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "menu",
+      "meaning": "قائمة الطعام",
+      "sentence": "This restaurant has a short menu with many salads.",
+      "sentence_ar": "لدى هذا المطعم قائمة طعام قصيرة تضم أنواعًا كثيرة من السلطات.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-120",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "bill",
+      "meaning": "فاتورة",
+      "sentence": "Could we have the bill, please? We are ready to leave.",
+      "sentence_ar": "هل يمكننا الحصول على الفاتورة من فضلك؟ نحن مستعدون للمغادرة.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-121",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "waiter",
+      "meaning": "نادل",
+      "sentence": "The waiter brought our drinks and asked about dessert.",
+      "sentence_ar": "أحضر النادل مشروباتنا وسألنا عن الحلوى.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-122",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "spicy",
+      "meaning": "حارّ (كثير التوابل)",
+      "sentence": "This curry is too spicy for my little brother.",
+      "sentence_ar": "هذا الكاري حار جدًا بالنسبة إلى أخي الصغير.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-123",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "jacket",
+      "meaning": "سترة",
+      "sentence": "Wear a warm jacket because it may rain tonight.",
+      "sentence_ar": "ارتدِ سترة دافئة لأنه قد تمطر الليلة.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-124",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "size",
+      "meaning": "مقاس",
+      "sentence": "Do you have this shirt in a larger size?",
+      "sentence_ar": "هل لديكم هذا القميص بمقاس أكبر؟",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-125",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "try on",
+      "meaning": "يجرّب ارتداء",
+      "sentence": "You can try on these shoes before paying for them.",
+      "sentence_ar": "يمكنك تجربة ارتداء هذه الأحذية قبل دفع ثمنها.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-126",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "post office",
+      "meaning": "مكتب البريد",
+      "sentence": "I sent the parcel from the post office yesterday.",
+      "sentence_ar": "أرسلت الطرد من مكتب البريد أمس.",
+      "topic": "الخدمات والمواعيد",
+      "id": "a2-vocab-127",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "bank",
+      "meaning": "مصرف",
+      "sentence": "The bank opens at nine and closes at four.",
+      "sentence_ar": "يفتح المصرف عند التاسعة ويغلق عند الرابعة.",
+      "topic": "الخدمات والمواعيد",
+      "id": "a2-vocab-128",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "pharmacy",
+      "meaning": "صيدلية",
+      "sentence": "The pharmacy sells medicine and shampoo near the station.",
+      "sentence_ar": "تبيع الصيدلية الأدوية والشامبو بالقرب من المحطة.",
+      "topic": "الخدمات والمواعيد",
+      "id": "a2-vocab-129",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "queue",
+      "meaning": "طابور",
+      "sentence": "We stood in a long queue outside the cinema.",
+      "sentence_ar": "وقفنا في طابور طويل خارج السينما.",
+      "topic": "الخدمات والمواعيد",
+      "id": "a2-vocab-130",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "film",
+      "meaning": "فيلم",
+      "sentence": "We watched a funny film at home last night.",
+      "sentence_ar": "شاهدنا فيلمًا مضحكًا في المنزل ليلة أمس.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-131",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "channel",
+      "meaning": "قناة",
+      "sentence": "We watched the weather channel before leaving for the beach.",
+      "sentence_ar": "شاهدنا قناة الطقس قبل الذهاب إلى الشاطئ.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-132",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "radio",
+      "meaning": "راديو",
+      "sentence": "My father listens to the radio while driving to work.",
+      "sentence_ar": "يستمع أبي إلى الراديو أثناء قيادته إلى العمل.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-133",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "episode",
+      "meaning": "حلقة",
+      "sentence": "I missed the first episode, but watched the next one online.",
+      "sentence_ar": "فاتتني الحلقة الأولى، لكنني شاهدت الحلقة التالية عبر الإنترنت.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-134",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "download",
+      "meaning": "يُنزّل",
+      "sentence": "You can download the film before your train leaves.",
+      "sentence_ar": "يمكنك تنزيل الفيلم قبل مغادرة قطارك.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-135",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "concert",
+      "meaning": "حفل موسيقي",
+      "sentence": "We heard a singer perform at an outdoor concert last Saturday.",
+      "sentence_ar": "استمعنا إلى مغنٍّ يؤدي في حفل موسيقي في الهواء الطلق يوم السبت الماضي.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-136",
+      "level": "A2",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "airport",
+      "meaning": "مطار",
+      "sentence": "We arrived at the airport two hours before our flight.",
+      "sentence_ar": "وصلنا إلى المطار قبل رحلتنا بساعتين.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-137",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "boarding pass",
+      "meaning": "بطاقة صعود الطائرة",
+      "sentence": "Please show your boarding pass at the gate.",
+      "sentence_ar": "من فضلك أظهر بطاقة صعود الطائرة عند البوابة.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-138",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "gate",
+      "meaning": "بوابة الصعود إلى الطائرة",
+      "sentence": "Our flight leaves from gate twelve.",
+      "sentence_ar": "تغادر رحلتنا من بوابة الصعود رقم اثني عشر.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-139",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "journey",
+      "meaning": "رحلة",
+      "sentence": "The train journey takes about three hours.",
+      "sentence_ar": "تستغرق رحلة القطار حوالي ثلاث ساعات.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-140",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "passenger",
+      "meaning": "راكب",
+      "sentence": "Every passenger must wear a seat belt.",
+      "sentence_ar": "يجب على كل راكب أن يضع حزام الأمان.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-141",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "map",
+      "meaning": "خريطة",
+      "sentence": "We used a map to find the museum.",
+      "sentence_ar": "استخدمنا خريطة للعثور على المتحف.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-142",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "delay",
+      "meaning": "تأخير",
+      "sentence": "There was a delay, so the bus arrived late.",
+      "sentence_ar": "حدث تأخير، لذلك وصلت الحافلة متأخرة.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-143",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "ferry",
+      "meaning": "عبّارة",
+      "sentence": "We took a ferry to the island.",
+      "sentence_ar": "استقللنا عبّارة إلى الجزيرة.",
+      "topic": "السفر والمواصلات",
+      "id": "a2-vocab-144",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "meeting",
+      "meaning": "اجتماع",
+      "sentence": "Our team has a meeting at ten o’clock.",
+      "sentence_ar": "لدى فريقنا اجتماع في الساعة العاشرة.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-145",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "project",
+      "meaning": "مشروع",
+      "sentence": "I am working on a school project with two friends.",
+      "sentence_ar": "أعمل على مشروع مدرسي مع صديقين.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-146",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "manager",
+      "meaning": "مدير",
+      "sentence": "The manager spoke to the new workers.",
+      "sentence_ar": "تحدث المدير إلى العمال الجدد.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-147",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "break",
+      "meaning": "استراحة",
+      "sentence": "We usually take a short break after lunch.",
+      "sentence_ar": "عادةً ما نأخذ استراحة قصيرة بعد الغداء.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-148",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "desk",
+      "meaning": "مكتب",
+      "sentence": "There is a computer on my desk.",
+      "sentence_ar": "يوجد حاسوب على مكتبي.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-149",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "exam",
+      "meaning": "امتحان",
+      "sentence": "She studied every evening for her English exam.",
+      "sentence_ar": "درست كل مساء استعدادًا لامتحان اللغة الإنجليزية.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-150",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "classmate",
+      "meaning": "زميل في الصف",
+      "sentence": "My classmate helped me with the homework.",
+      "sentence_ar": "ساعدني زميلي في الصف في الواجب المنزلي.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-151",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "dictionary",
+      "meaning": "قاموس",
+      "sentence": "I looked up the new word in my dictionary.",
+      "sentence_ar": "بحثت عن الكلمة الجديدة في قاموسي.",
+      "topic": "العمل والدراسة",
+      "id": "a2-vocab-152",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "fever",
+      "meaning": "حمّى",
+      "sentence": "He stayed home because he had a fever.",
+      "sentence_ar": "بقي في المنزل لأنه كان مصابًا بالحمّى.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-153",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "sore throat",
+      "meaning": "التهاب الحلق",
+      "sentence": "I drank warm tea because I had a sore throat.",
+      "sentence_ar": "شربت شايًا دافئًا لأنني كنت أعاني من التهاب الحلق.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-154",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "bandage",
+      "meaning": "ضمادة",
+      "sentence": "She put a bandage on her finger.",
+      "sentence_ar": "وضعت ضمادة على إصبعها.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-155",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "healthy",
+      "meaning": "صحي",
+      "sentence": "A healthy breakfast gives me energy in the morning.",
+      "sentence_ar": "يمنحني الإفطار الصحي طاقة في الصباح.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-156",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "team",
+      "meaning": "فريق",
+      "sentence": "Our team plays football every Saturday.",
+      "sentence_ar": "يلعب فريقنا كرة القدم كل يوم سبت.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-157",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "race",
+      "meaning": "سباق",
+      "sentence": "He ran in a five-kilometer race last weekend.",
+      "sentence_ar": "شارك في سباق لمسافة خمسة كيلومترات في عطلة نهاية الأسبوع الماضية.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-158",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "football",
+      "meaning": "كرة القدم",
+      "sentence": "The children played football in the park.",
+      "sentence_ar": "لعب الأطفال كرة القدم في الحديقة.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-159",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "helmet",
+      "meaning": "خوذة",
+      "sentence": "Always wear a helmet when you ride a bicycle.",
+      "sentence_ar": "ارتدِ خوذة دائمًا عندما تقود دراجة هوائية.",
+      "topic": "الصحة والرياضة",
+      "id": "a2-vocab-160",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "restaurant",
+      "meaning": "مطعم",
+      "sentence": "We had dinner at a small restaurant near the hotel.",
+      "sentence_ar": "تناولنا العشاء في مطعم صغير بالقرب من الفندق.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-161",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "dessert",
+      "meaning": "حلوى",
+      "sentence": "We shared a chocolate dessert after dinner.",
+      "sentence_ar": "تقاسمنا حلوى بالشوكولاتة بعد العشاء.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-162",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "fork",
+      "meaning": "شوكة",
+      "sentence": "Could I have a fork, please?",
+      "sentence_ar": "هل يمكنني الحصول على شوكة، من فضلك؟",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-163",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "spoon",
+      "meaning": "ملعقة",
+      "sentence": "She used a spoon to eat the soup.",
+      "sentence_ar": "استخدمت ملعقة لتناول الحساء.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-164",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "coat",
+      "meaning": "معطف",
+      "sentence": "Take your coat because it is cold outside.",
+      "sentence_ar": "خذ معطفك لأن الجو بارد في الخارج.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-165",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "trousers",
+      "meaning": "بنطال",
+      "sentence": "He wore black trousers to the party.",
+      "sentence_ar": "ارتدى بنطالًا أسود إلى الحفلة.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-166",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "cotton",
+      "meaning": "قطن",
+      "sentence": "This shirt is made of cotton.",
+      "sentence_ar": "هذا القميص مصنوع من القطن.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-167",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "fitting room",
+      "meaning": "غرفة قياس الملابس",
+      "sentence": "You can try the jacket on in the fitting room.",
+      "sentence_ar": "يمكنك تجربة المعطف في غرفة قياس الملابس.",
+      "topic": "المطاعم والملابس",
+      "id": "a2-vocab-168",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "customer",
+      "meaning": "زبون",
+      "sentence": "The shop assistant helped the customer find a gift.",
+      "sentence_ar": "ساعد موظف المتجر الزبون في العثور على هدية.",
+      "topic": "الخدمات والمواعيد",
+      "id": "a2-vocab-169",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "address",
+      "meaning": "عنوان",
+      "sentence": "Please write your address on this form.",
+      "sentence_ar": "من فضلك اكتب عنوانك في هذه الاستمارة.",
+      "topic": "الخدمات والمواعيد",
+      "id": "a2-vocab-170",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "delivery",
+      "meaning": "توصيل",
+      "sentence": "The delivery will arrive tomorrow morning.",
+      "sentence_ar": "سيصل الطلب غدًا صباحًا.",
+      "topic": "الخدمات والمواعيد",
+      "id": "a2-vocab-171",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "repair",
+      "meaning": "إصلاح",
+      "sentence": "The repair of my phone took two days.",
+      "sentence_ar": "استغرق إصلاح هاتفي يومين.",
+      "topic": "الخدمات والمواعيد",
+      "id": "a2-vocab-172",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "clinic",
+      "meaning": "عيادة",
+      "sentence": "The clinic is open until six in the evening.",
+      "sentence_ar": "العيادة مفتوحة حتى السادسة مساءً.",
+      "topic": "الخدمات والمواعيد",
+      "id": "a2-vocab-173",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "haircut",
+      "meaning": "قصّة شعر",
+      "sentence": "I need a haircut before the wedding.",
+      "sentence_ar": "أحتاج إلى قصّة شعر قبل حفل الزفاف.",
+      "topic": "الخدمات والمواعيد",
+      "id": "a2-vocab-174",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "newspaper",
+      "meaning": "جريدة",
+      "sentence": "My grandfather reads the newspaper every morning.",
+      "sentence_ar": "يقرأ جدي الجريدة كل صباح.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-175",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "magazine",
+      "meaning": "مجلة",
+      "sentence": "She bought a magazine about cooking.",
+      "sentence_ar": "اشترت مجلة عن الطهي.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-176",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "website",
+      "meaning": "موقع إلكتروني",
+      "sentence": "I found the bus times on the company website.",
+      "sentence_ar": "وجدت مواعيد الحافلات على الموقع الإلكتروني للشركة.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-177",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "photograph",
+      "meaning": "صورة فوتوغرافية",
+      "sentence": "He took a photograph of the sunset.",
+      "sentence_ar": "التقط صورة فوتوغرافية لغروب الشمس.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-178",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "actor",
+      "meaning": "ممثل",
+      "sentence": "The actor in this film is very funny.",
+      "sentence_ar": "الممثل في هذا الفيلم مضحك جدًا.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-179",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "comedy",
+      "meaning": "فيلم كوميدي",
+      "sentence": "We watched a comedy and laughed a lot.",
+      "sentence_ar": "شاهدنا فيلمًا كوميديًا وضحكنا كثيرًا.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-180",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "song",
+      "meaning": "أغنية",
+      "sentence": "This is my favorite song on the radio.",
+      "sentence_ar": "هذه أغنيتي المفضلة على الراديو.",
+      "topic": "الإعلام والترفيه",
+      "id": "a2-vocab-181",
+      "source": "new_curriculum_2026"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a2-quiz-01",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Pronunciation",
+      "options": [
+        "مفردات",
+        "القواعد",
+        "التشديد",
+        "النطق"
+      ],
+      "answer": 3,
+      "explanation_ar": "كلمة Pronunciation تعني: النطق."
+    },
+    {
+      "id": "a2-quiz-02",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Vocabulary",
+      "options": [
+        "التشديد",
+        "التعبير",
+        "مفردات",
+        "القواعد"
+      ],
+      "answer": 2,
+      "explanation_ar": "كلمة Vocabulary تعني: مفردات."
+    },
+    {
+      "id": "a2-quiz-03",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Grammar",
+      "options": [
+        "طبيعي",
+        "القواعد",
+        "التشديد",
+        "التعبير"
+      ],
+      "answer": 1,
+      "explanation_ar": "كلمة Grammar تعني: القواعد."
+    },
+    {
+      "id": "a2-quiz-04",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Stress",
+      "options": [
+        "التشديد",
+        "التعبير",
+        "طبيعي",
+        "واثق"
+      ],
+      "answer": 0,
+      "explanation_ar": "كلمة Stress تعني: التشديد."
+    },
+    {
+      "id": "a2-quiz-05",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ His expression showed that he was surprised.",
+      "options": [
+        "السبب الرئيسي لمشيي هو الحفاظ على صحتي.",
+        "قارن بين الصورتين وصِف الاختلافات بينهما.",
+        "أظهر تعبير وجهه أنه كان متفاجئًا.",
+        "ساعدتني تجربتي في إسبانيا على تحسين لغتي الإسبانية."
+      ],
+      "answer": 2,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "a2-quiz-06",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Try to sound natural when you speak English.",
+      "options": [
+        "صِف مكانك المفضل في ثلاث جمل.",
+        "حاول أن يبدو كلامك طبيعيًا عندما تتحدث الإنجليزية.",
+        "السبب الرئيسي لمشيي هو الحفاظ على صحتي.",
+        "قارن بين الصورتين وصِف الاختلافات بينهما."
+      ],
+      "answer": 1,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "a2-quiz-07",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ She felt confident during her first job interview.",
+      "options": [
+        "شعرت بالثقة خلال مقابلة العمل الأولى لها.",
+        "قارن بين الصورتين وصِف الاختلافات بينهما.",
+        "صِف مكانك المفضل في ثلاث جمل.",
+        "هل يمكنك شرح هذه الكلمة بلغة بسيطة؟"
+      ],
+      "answer": 0,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "a2-quiz-08",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ One small detail can change the meaning of a sentence.",
+      "options": [
+        "صِف مكانك المفضل في ثلاث جمل.",
+        "هل يمكنك شرح هذه الكلمة بلغة بسيطة؟",
+        "أوافق على اقتراحك بأن نبدأ مبكرًا.",
+        "قد يغيّر تفصيل صغير معنى الجملة."
+      ],
+      "answer": 3,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "a2-quiz-09",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «المضارع المستمر»؟",
+      "options": [
+        "I am going to study tonight. I will help you.",
+        "They are studying for their exam now.",
+        "We visited the museum last Saturday.",
+        "I was cooking when the phone rang."
+      ],
+      "answer": 1,
+      "explanation_ar": "يتكون من am/is/are + verb-ing ويصف فعلًا يحدث الآن أو حول الوقت الحالي. لما يحدث الآن أو مؤقتًا."
+    },
+    {
+      "id": "a2-quiz-10",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الماضي البسيط»؟",
+      "options": [
+        "We visited the museum last Saturday.",
+        "I was cooking when the phone rang.",
+        "I am going to study tonight. I will help you.",
+        "This book is more interesting than that one."
+      ],
+      "answer": 0,
+      "explanation_ar": "نستخدم التصريف الثاني أو ed للإثبات، وdid not + الفعل الأساسي للنفي والسؤال. للأحداث المنتهية في الماضي."
+    },
+    {
+      "id": "a2-quiz-11",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الماضي المستمر»؟",
+      "options": [
+        "I am going to study tonight. I will help you.",
+        "This book is more interesting than that one.",
+        "How many questions are there? We do not have much time.",
+        "I was cooking when the phone rang."
+      ],
+      "answer": 3,
+      "explanation_ar": "يتكون من was/were + verb-ing لوصف فعل كان مستمرًا في وقت ماضٍ. لوصف خلفية حدث أو فعل قطعه حدث آخر."
+    },
+    {
+      "id": "a2-quiz-12",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «المستقبل will وgoing to»؟",
+      "options": [
+        "How many questions are there? We do not have much time.",
+        "She has already finished her homework.",
+        "I am going to study tonight. I will help you.",
+        "This book is more interesting than that one."
+      ],
+      "answer": 2,
+      "explanation_ar": "نستخدم will للقرار أو التنبؤ، وbe going to للخطة أو الدليل الواضح. للتحدث عن المستقبل بطريقة دقيقة."
+    }
+  ],
+  "can_do": [
+    "التعامل مع مواقف التسوق والسفر والخدمات اليومية.",
+    "وصف الخبرات والخطط والبيئة المحيطة بعبارات بسيطة.",
+    "كتابة رسالة قصيرة أو وصف واضح لموضوع مألوف."
+  ],
+  "course_file": "data/courses/A2.json"
+}

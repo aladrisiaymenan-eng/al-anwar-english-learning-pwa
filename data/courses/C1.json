@@ -1,0 +1,1263 @@
+{
+  "title": "المتقدم",
+  "band": "مستخدم متمكن",
+  "description": "استخدام مرن وفعال للغة في الدراسة والعمل وفهم المعنى الضمني والكتابة المنظمة.",
+  "themes": [
+    "البحث الأكاديمي",
+    "السياسات العامة",
+    "التقنية والذكاء الاصطناعي",
+    "الاقتصاد والعولمة",
+    "الثقافة والإعلام",
+    "الصحة والاستدامة"
+  ],
+  "grammar": [
+    "المبني للمجهول غير الشخصي",
+    "الشرط المختلط والصيغ الرسمية",
+    "inversion بعد الظروف المقيدة",
+    "cleft sentences",
+    "الحذف والاستبدال",
+    "modal perfects",
+    "participial clauses",
+    "تراكيب اسمية كثيفة",
+    "الترابط والإحالة",
+    "السجل والنبرة"
+  ],
+  "level": "C1",
+  "grammar_lessons": [
+    {
+      "id": "c1-grammar-01",
+      "title": "المبني للمجهول غير الشخصي",
+      "explanation_ar": "نستخدم It is believed that وHe is thought to لنقل الاعتقاد أو التقرير بأسلوب رسمي.",
+      "how_to_apply_ar": "في التقارير والكتابة الأكاديمية.",
+      "example": "It is widely believed that sleep improves memory.",
+      "example_ar": "يُعتقد على نطاق واسع أن النوم يحسن الذاكرة.",
+      "common_mistake_ar": "اختر to have + التصريف الثالث إذا كان الحدث أقدم.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «المبني للمجهول غير الشخصي» ثم قارنها بالمثال."
+    },
+    {
+      "id": "c1-grammar-02",
+      "title": "الجمل الشرطية المعقدة",
+      "explanation_ar": "نمزج الأزمنة ونستخدم unless وprovided that وas long as لتحديد الشروط الدقيقة.",
+      "how_to_apply_ar": "لتحليل العلاقات والنتائج المعقدة.",
+      "example": "Provided that the data are accurate, the conclusion is reasonable.",
+      "example_ar": "بشرط أن تكون البيانات دقيقة، فالاستنتاج معقول.",
+      "common_mistake_ar": "provided that تعني بشرط أن وليست بسبب أن.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «الجمل الشرطية المعقدة» ثم قارنها بالمثال."
+    },
+    {
+      "id": "c1-grammar-03",
+      "title": "جمل المشاركة",
+      "explanation_ar": "يمكن اختصار جمل الوصل أو الجمل الزمنية باستخدام present أو past participle.",
+      "how_to_apply_ar": "لتقليل التكرار وجعل الأسلوب أكثر كثافة.",
+      "example": "Having reviewed the evidence, the panel reached a decision.",
+      "example_ar": "بعد مراجعة الأدلة، توصلت اللجنة إلى قرار.",
+      "common_mistake_ar": "يجب أن يكون الفاعل المفهوم في الجزأين واحدًا.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «جمل المشاركة» ثم قارنها بالمثال."
+    },
+    {
+      "id": "c1-grammar-04",
+      "title": "الانعكاس بعد العبارات السلبية",
+      "explanation_ar": "بعد never وrarely وnot only في بداية الجملة نستخدم ترتيب السؤال للتوكيد.",
+      "how_to_apply_ar": "في الأسلوب الرسمي والتوكيدي.",
+      "example": "Never have I seen such a careful analysis.",
+      "example_ar": "لم أرَ قط تحليلًا دقيقًا إلى هذا الحد.",
+      "common_mistake_ar": "لا ننسى الفعل المساعد قبل الفاعل.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «الانعكاس بعد العبارات السلبية» ثم قارنها بالمثال."
+    },
+    {
+      "id": "c1-grammar-05",
+      "title": "التقديم والتأخير للتوكيد",
+      "explanation_ar": "نقدم عنصرًا إلى أول الجملة أو نستخدم What ... is للتأكيد على معلومة.",
+      "how_to_apply_ar": "لإبراز فكرة مهمة في خطاب أو كتابة.",
+      "example": "What matters is the quality of the evidence.",
+      "example_ar": "المهم هو جودة الأدلة.",
+      "common_mistake_ar": "يجب أن يتطابق الفعل مع الجزء المقدم.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «التقديم والتأخير للتوكيد» ثم قارنها بالمثال."
+    },
+    {
+      "id": "c1-grammar-06",
+      "title": "التحوّط واليقين",
+      "explanation_ar": "نستخدم may, might, appears to, tends to وis likely to لتجنب الجزم غير المدعوم.",
+      "how_to_apply_ar": "في البحث والتحليل المهني.",
+      "example": "The results appear to support the original hypothesis.",
+      "example_ar": "تبدو النتائج داعمة للفرضية الأصلية.",
+      "common_mistake_ar": "التحوّط ليس ضعفًا؛ بل دقة في عرض الدليل.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «التحوّط واليقين» ثم قارنها بالمثال."
+    },
+    {
+      "id": "c1-grammar-07",
+      "title": "الأسماء المجردة والاشتقاق",
+      "explanation_ar": "نحوّل الأفعال والصفات إلى أسماء مثل analyse/analysis وaccurate/accuracy عند الكتابة الرسمية.",
+      "how_to_apply_ar": "لتكثيف المعلومات في النصوص الأكاديمية.",
+      "example": "The rapid expansion of the service created new demands.",
+      "example_ar": "أدى التوسع السريع للخدمة إلى مطالب جديدة.",
+      "common_mistake_ar": "لا تكثر من الأسماء المجردة حتى لا يصبح النص غامضًا.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «الأسماء المجردة والاشتقاق» ثم قارنها بالمثال."
+    },
+    {
+      "id": "c1-grammar-08",
+      "title": "الأفعال الناقصة والندم المتقدم",
+      "explanation_ar": "نستخدم should have, needn’t have, could have وwould have لتمييز الواجب والفرصة والنتيجة.",
+      "how_to_apply_ar": "لتحليل المسؤولية والبدائل الماضية.",
+      "example": "You needn’t have brought a copy; we had one.",
+      "example_ar": "لم تكن بحاجة إلى إحضار نسخة؛ كانت لدينا واحدة.",
+      "common_mistake_ar": "needn’t have تعني حدثًا لم يكن ضروريًا، لا أنه لم يحدث.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «الأفعال الناقصة والندم المتقدم» ثم قارنها بالمثال."
+    },
+    {
+      "id": "c1-grammar-09",
+      "title": "الأسلوب غير المباشر والأسئلة الرسمية",
+      "explanation_ar": "نستخدم تراكيب مثل I was wondering whether وCould you clarify why لطرح الأسئلة بلطف ورسمية.",
+      "how_to_apply_ar": "في البريد والعمل والبحث.",
+      "example": "Could you clarify whether the deadline is flexible?",
+      "example_ar": "هل يمكنك توضيح ما إذا كان الموعد النهائي مرنًا؟",
+      "common_mistake_ar": "لا نستخدم ترتيب السؤال داخل الجملة غير المباشرة.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «الأسلوب غير المباشر والأسئلة الرسمية» ثم قارنها بالمثال."
+    },
+    {
+      "id": "c1-grammar-10",
+      "title": "الروابط الخطابية الدقيقة",
+      "explanation_ar": "نميز بين nevertheless وtherefore وwhereas وinsofar as وconsequently حسب العلاقة المنطقية.",
+      "how_to_apply_ar": "لبناء حجة دقيقة ومقنعة.",
+      "example": "The method is limited; nevertheless, the findings are useful.",
+      "example_ar": "المنهج محدود؛ ومع ذلك فالنتائج مفيدة.",
+      "common_mistake_ar": "اختر الرابط حسب العلاقة لا حسب التشابه في الترجمة.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «الروابط الخطابية الدقيقة» ثم قارنها بالمثال."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "c1-vocab-001",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100",
+      "word": "Fluency markers",
+      "meaning": "مؤشرات الطلاقة",
+      "sentence": "Fluency markers such as well and actually help connect ideas.",
+      "sentence_ar": "تساعد مؤشرات الطلاقة مثل «حسنًا» و«في الواقع» على ربط الأفكار.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "c1-vocab-002",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100",
+      "word": "Band descriptor",
+      "meaning": "وصف الدرجة",
+      "sentence": "The band descriptor explains what each score means.",
+      "sentence_ar": "يوضح وصف الدرجة معنى كل درجة.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "c1-vocab-003",
+      "section": "قسم القراءة (Reading) - الكلمات من 51 إلى 100",
+      "word": "Humanities",
+      "meaning": "العلوم الإنسانية",
+      "sentence": "Humanities include subjects such as history and literature.",
+      "sentence_ar": "تشمل العلوم الإنسانية مواد مثل التاريخ والأدب.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "c1-vocab-004",
+      "section": "قسم القراءة (Reading) - الكلمات من 51 إلى 100",
+      "word": "Editorial",
+      "meaning": "مقالة افتتاحية",
+      "sentence": "The newspaper published an editorial about public transport.",
+      "sentence_ar": "نشرت الصحيفة مقالة افتتاحية عن وسائل النقل العامة.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "c1-vocab-005",
+      "section": "قسم القراءة (Reading) - الكلمات من 51 إلى 100",
+      "word": "Information retrieval",
+      "meaning": "استخراج المعلومات",
+      "sentence": "Information retrieval is easier when you scan for key words.",
+      "sentence_ar": "يسهل استخراج المعلومات عندما تبحث عن الكلمات المفتاحية.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "c1-vocab-006",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Tapescript",
+      "meaning": "نص التسجيل الصوتي",
+      "sentence": "Use the tapescript to check what you heard.",
+      "sentence_ar": "استخدم نص التسجيل الصوتي للتحقق مما سمعته.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "c1-vocab-007",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Discrepancy",
+      "meaning": "تفاوت / اختلاف",
+      "sentence": "There is a discrepancy between the two reports.",
+      "sentence_ar": "هناك اختلاف بين التقريرين.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "c1-vocab-008",
+      "section": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50",
+      "word": "Cohesion",
+      "meaning": "تماسك النص",
+      "sentence": "Use linking words to improve cohesion in your essay.",
+      "sentence_ar": "استخدم كلمات الربط لتحسين تماسك مقالك.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "c1-vocab-009",
+      "section": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50",
+      "word": "Task achievement",
+      "meaning": "تحقيق متطلبات المهمة",
+      "sentence": "Task achievement depends on answering every part of the question.",
+      "sentence_ar": "يعتمد تحقيق متطلبات المهمة على الإجابة عن كل جزء من السؤال.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "c1-vocab-010",
+      "section": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50",
+      "word": "Task response",
+      "meaning": "الاستجابة للمهمة",
+      "sentence": "Task response improves when you support your opinion with reasons.",
+      "sentence_ar": "تتحسن الاستجابة للمهمة عندما تدعم رأيك بالأسباب.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "c1-vocab-011",
+      "section": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50",
+      "word": "Unity",
+      "meaning": "وحدة الموضوع",
+      "sentence": "Unity makes the paragraph focus on one central idea.",
+      "sentence_ar": "تجعل وحدة الموضوع الفقرة تركز على فكرة محورية واحدة.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "c1-vocab-012",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Thesis statement",
+      "meaning": "عبارة الأطروحة",
+      "sentence": "Your Thesis statement should express the main argument clearly.",
+      "sentence_ar": "ينبغي أن تعبّر عبارة الأطروحة عن الحجة الرئيسية بوضوح.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "c1-vocab-013",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Counterargument",
+      "meaning": "حجة معاكسة",
+      "sentence": "A Counterargument shows what someone with a different opinion might say.",
+      "sentence_ar": "توضح الحجة المعاكسة ما قد يقوله شخص لديه رأي مختلف.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "c1-vocab-014",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Rebuttal",
+      "meaning": "رد على الحجة",
+      "sentence": "The Rebuttal explains why that opposing argument is not convincing.",
+      "sentence_ar": "يوضح الرد على الحجة سبب عدم إقناع تلك الحجة المعارضة.",
+      "level": "C1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "word": "peer review",
+      "meaning": "مراجعة الأقران",
+      "sentence": "Peer review exposed weaknesses that the authors had overlooked.",
+      "sentence_ar": "كشفت مراجعة الأقران نقاط ضعف أغفلها المؤلفون.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-015",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "research gap",
+      "meaning": "فجوة بحثية",
+      "sentence": "Her thesis addresses a research gap in rural water governance.",
+      "sentence_ar": "تعالج أطروحتها فجوة بحثية في إدارة المياه بالمناطق الريفية.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-016",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "methodological rigor",
+      "meaning": "الصرامة المنهجية",
+      "sentence": "Strict methodological rigor makes the study's results more credible.",
+      "sentence_ar": "تجعل الصرامة المنهجية الشديدة نتائج الدراسة أكثر مصداقية.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-017",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "replicable",
+      "meaning": "قابل لإعادة التطبيق",
+      "sentence": "Researchers shared a replicable protocol for measuring soil salinity.",
+      "sentence_ar": "شارك الباحثون بروتوكولًا قابلًا لإعادة التطبيق لقياس ملوحة التربة.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-018",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "longitudinal study",
+      "meaning": "دراسة طولية",
+      "sentence": "The longitudinal study tracked dietary habits across three decades.",
+      "sentence_ar": "تابعت الدراسة الطولية العادات الغذائية على مدى ثلاثة عقود.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-019",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "sampling bias",
+      "meaning": "تحيّز في أخذ العينات",
+      "sentence": "Sampling bias distorted estimates because remote households were excluded.",
+      "sentence_ar": "شوّه التحيّز في أخذ العينات التقديرات بسبب استبعاد الأسر النائية.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-020",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "correlation",
+      "meaning": "ارتباط",
+      "sentence": "Correlation alone cannot establish that one factor produced another.",
+      "sentence_ar": "لا يكفي الارتباط وحده لإثبات أن عاملًا ما أدى إلى آخر.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-021",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "policy brief",
+      "meaning": "موجز سياسات",
+      "sentence": "A concise policy brief outlined options for improving rural transit.",
+      "sentence_ar": "عرض موجز سياسات مختصر خيارات لتحسين النقل في المناطق الريفية.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-022",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "regulatory framework",
+      "meaning": "إطار تنظيمي",
+      "sentence": "Officials revised the regulatory framework after repeated safety failures.",
+      "sentence_ar": "راجع المسؤولون الإطار التنظيمي بعد إخفاقات متكررة في السلامة.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-023",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "means-tested",
+      "meaning": "مشروط باختبار الدخل والموارد",
+      "sentence": "Means-tested housing grants prioritize households below a set income threshold.",
+      "sentence_ar": "تعطي منح الإسكان المشروطة باختبار الدخل الأولوية للأسر دون حد دخل محدد.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-024",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "public procurement",
+      "meaning": "المشتريات الحكومية",
+      "sentence": "Public procurement rules favor suppliers meeting strict labor standards.",
+      "sentence_ar": "تفضّل قواعد المشتريات الحكومية الموردين الملتزمين بمعايير عمل صارمة.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-025",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "fiscal restraint",
+      "meaning": "ضبط الإنفاق المالي",
+      "sentence": "Fiscal restraint limited new spending despite mounting service demands.",
+      "sentence_ar": "حدّ ضبط الإنفاق المالي من النفقات الجديدة رغم تزايد الطلب على الخدمات.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-026",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "stakeholder consultation",
+      "meaning": "التشاور مع الجهات المعنية",
+      "sentence": "Stakeholder consultation revealed strong opposition to the proposed toll.",
+      "sentence_ar": "كشف التشاور مع الجهات المعنية معارضة شديدة للرسوم المقترحة.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-027",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "enforcement mechanism",
+      "meaning": "آلية إنفاذ",
+      "sentence": "Poor enforcement mechanisms allow illegal dumping to persist.",
+      "sentence_ar": "تسمح آليات الإنفاذ الضعيفة باستمرار التخلص غير القانوني من النفايات.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-028",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "algorithmic screening",
+      "meaning": "الفرز الخوارزمي",
+      "sentence": "Algorithmic screening can reproduce historical prejudice at scale.",
+      "sentence_ar": "قد يعيد الفرز الخوارزمي إنتاج الأحكام المسبقة التاريخية على نطاق واسع.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-029",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "machine learning",
+      "meaning": "التعلّم الآلي",
+      "sentence": "Machine learning helps clinicians detect subtle patterns in scans.",
+      "sentence_ar": "يساعد التعلّم الآلي الأطباء على اكتشاف أنماط دقيقة في الصور الطبية.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-030",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "large language model",
+      "meaning": "نموذج لغوي كبير",
+      "sentence": "The large language model generated fluent claims but invented citations.",
+      "sentence_ar": "أنشأ النموذج اللغوي الكبير ادعاءات سلسة، لكنه اختلق إحالات مرجعية.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-031",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "model drift",
+      "meaning": "انحراف النموذج",
+      "sentence": "Model drift weakened predictions as user habits shifted.",
+      "sentence_ar": "أضعف انحراف النموذج التنبؤات مع تبدّل عادات المستخدمين.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-032",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "algorithmic transparency",
+      "meaning": "الشفافية الخوارزمية",
+      "sentence": "Algorithmic transparency lets auditors inspect automated decisions.",
+      "sentence_ar": "تتيح الشفافية الخوارزمية للمدققين فحص القرارات المؤتمتة.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-033",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "human oversight",
+      "meaning": "الإشراف البشري",
+      "sentence": "Human oversight remains vital when software recommends medical treatment.",
+      "sentence_ar": "يظل الإشراف البشري ضروريًا عندما تقترح البرمجيات علاجًا طبيًا.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-034",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "automation bias",
+      "meaning": "التحيّز للأتمتة",
+      "sentence": "Automation bias may lead pilots to trust flawed alerts.",
+      "sentence_ar": "قد يدفع التحيّز للأتمتة الطيارين إلى الوثوق بتنبيهات معيبة.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-035",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "supply chain resilience",
+      "meaning": "مرونة سلسلة التوريد",
+      "sentence": "Supply chain resilience depends on diverse suppliers and reliable ports.",
+      "sentence_ar": "تعتمد مرونة سلسلة التوريد على تنوع الموردين وموثوقية الموانئ.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-036",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "export specialization",
+      "meaning": "التخصص في التصدير",
+      "sentence": "Export specialization shapes which goods countries produce efficiently.",
+      "sentence_ar": "يشكّل التخصص في التصدير نوع السلع التي تنتجها البلدان بكفاءة.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-037",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "capital flight",
+      "meaning": "هروب رؤوس الأموال",
+      "sentence": "Capital flight accelerated after officials imposed currency controls.",
+      "sentence_ar": "تسارع هروب رؤوس الأموال بعد أن فرض المسؤولون قيودًا على العملة.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-038",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "tariff barrier",
+      "meaning": "حاجز جمركي",
+      "sentence": "Tariff barriers raised costs for small manufacturers.",
+      "sentence_ar": "رفعت الحواجز الجمركية التكاليف على المصنّعين الصغار.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-039",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "labor mobility",
+      "meaning": "حركية العمالة",
+      "sentence": "Labor mobility helps workers pursue jobs across borders.",
+      "sentence_ar": "تساعد حركية العمالة العاملين على السعي إلى وظائف عبر الحدود.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-040",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "market volatility",
+      "meaning": "تقلبات السوق",
+      "sentence": "Market volatility unsettled investors after abrupt interest-rate announcements.",
+      "sentence_ar": "أقلقت تقلبات السوق المستثمرين بعد إعلانات مفاجئة عن أسعار الفائدة.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-041",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "economic disparity",
+      "meaning": "التفاوت الاقتصادي",
+      "sentence": "Economic disparity widened between coastal cities and inland provinces.",
+      "sentence_ar": "اتسع التفاوت الاقتصادي بين المدن الساحلية والمحافظات الداخلية.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-042",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "cross-border trade",
+      "meaning": "التجارة العابرة للحدود",
+      "sentence": "Cross-border trade supports livelihoods in frontier towns.",
+      "sentence_ar": "تدعم التجارة العابرة للحدود سبل العيش في البلدات الحدودية.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-043",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "media literacy",
+      "meaning": "الثقافة الإعلامية",
+      "sentence": "Media literacy helps teenagers assess sensational online claims.",
+      "sentence_ar": "تساعد الثقافة الإعلامية المراهقين على تقييم الادعاءات المثيرة على الإنترنت.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-044",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "press autonomy",
+      "meaning": "استقلالية الصحافة",
+      "sentence": "Press autonomy protects reporters from political pressure.",
+      "sentence_ar": "تحمي استقلالية الصحافة المراسلين من الضغوط السياسية.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-045",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "narrative framing",
+      "meaning": "التأطير السردي",
+      "sentence": "Narrative framing shaped how viewers understood the protest.",
+      "sentence_ar": "شكّل التأطير السردي الطريقة التي فهم بها المشاهدون الاحتجاج.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-046",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "content moderation",
+      "meaning": "الإشراف على المحتوى",
+      "sentence": "Content moderation removed threats while preserving legitimate debate.",
+      "sentence_ar": "أزال الإشراف على المحتوى التهديدات مع الحفاظ على النقاش المشروع.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-047",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "public broadcaster",
+      "meaning": "هيئة بث عامة",
+      "sentence": "The public broadcaster aired documentaries in minority languages.",
+      "sentence_ar": "بثّت هيئة البث العامة أفلامًا وثائقية بلغات الأقليات.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-048",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "digital archiving",
+      "meaning": "الأرشفة الرقمية",
+      "sentence": "Digital archiving safeguards recordings from fragile local traditions.",
+      "sentence_ar": "تحفظ الأرشفة الرقمية تسجيلات التقاليد المحلية المهددة بالاندثار.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-049",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "preventive care",
+      "meaning": "الرعاية الوقائية",
+      "sentence": "Preventive care reduced hospital admissions among older adults.",
+      "sentence_ar": "قللت الرعاية الوقائية حالات دخول المستشفى بين كبار السن.",
+      "topic": "الصحة والاستدامة",
+      "id": "c1-vocab-050",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "antimicrobial resistance",
+      "meaning": "مقاومة مضادات الميكروبات",
+      "sentence": "Antimicrobial resistance makes routine infections harder to treat.",
+      "sentence_ar": "تجعل مقاومة مضادات الميكروبات علاج العدوى الشائعة أكثر صعوبة.",
+      "topic": "الصحة والاستدامة",
+      "id": "c1-vocab-051",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "carbon footprint",
+      "meaning": "البصمة الكربونية",
+      "sentence": "The university's carbon footprint shrank after it replaced diesel buses.",
+      "sentence_ar": "انخفضت البصمة الكربونية للجامعة بعد استبدالها حافلات الديزل.",
+      "topic": "الصحة والاستدامة",
+      "id": "c1-vocab-052",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "circular economy",
+      "meaning": "الاقتصاد الدائري",
+      "sentence": "A circular economy keeps valuable materials in use for longer.",
+      "sentence_ar": "يبقي الاقتصاد الدائري المواد القيّمة قيد الاستخدام مدة أطول.",
+      "topic": "الصحة والاستدامة",
+      "id": "c1-vocab-053",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "renewable energy",
+      "meaning": "الطاقة المتجددة",
+      "sentence": "Renewable energy now powers clinics in remote villages.",
+      "sentence_ar": "تُشغّل الطاقة المتجددة الآن العيادات في القرى النائية.",
+      "topic": "الصحة والاستدامة",
+      "id": "c1-vocab-054",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "urban heat island",
+      "meaning": "الجزيرة الحرارية الحضرية",
+      "sentence": "The urban heat island intensifies during prolonged summer droughts.",
+      "sentence_ar": "تشتد الجزيرة الحرارية الحضرية خلال موجات الجفاف الصيفية الممتدة.",
+      "topic": "الصحة والاستدامة",
+      "id": "c1-vocab-055",
+      "level": "C1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "literature review",
+      "meaning": "مراجعة الأدبيات",
+      "sentence": "The literature review revealed that few studies had examined the issue in rural communities.",
+      "sentence_ar": "كشفت مراجعة الأدبيات أن دراسات قليلة تناولت هذه المسألة في المجتمعات الريفية.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-056",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "empirical evidence",
+      "meaning": "أدلة تجريبية",
+      "sentence": "The researchers gathered empirical evidence to test their claims.",
+      "sentence_ar": "جمع الباحثون أدلة تجريبية لاختبار ادعاءاتهم.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-057",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "citation",
+      "meaning": "استشهاد مرجعي",
+      "sentence": "Every citation in the report should lead readers to a reliable source.",
+      "sentence_ar": "ينبغي أن يقود كل استشهاد مرجعي في التقرير القراء إلى مصدر موثوق.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-058",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "abstract",
+      "meaning": "ملخص البحث",
+      "sentence": "The abstract summarizes the study's aims, methods, and main findings.",
+      "sentence_ar": "يلخص ملخص البحث أهداف الدراسة وأساليبها وأهم نتائجها.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-059",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "research ethics",
+      "meaning": "أخلاقيات البحث",
+      "sentence": "Research ethics require participants to give informed consent before the interviews begin.",
+      "sentence_ar": "تقتضي أخلاقيات البحث أن يقدّم المشاركون موافقة مستنيرة قبل بدء المقابلات.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-060",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "primary source",
+      "meaning": "مصدر أولي",
+      "sentence": "The historian used a diary as a primary source for the study.",
+      "sentence_ar": "استخدم المؤرخ يومياتٍ بوصفها مصدرًا أوليًا للدراسة.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-061",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "conceptual model",
+      "meaning": "نموذج مفاهيمي",
+      "sentence": "The team developed a conceptual model to explain how trust affects cooperation.",
+      "sentence_ar": "طوّر الفريق نموذجًا مفاهيميًا لشرح كيفية تأثير الثقة في التعاون.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-062",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "qualitative data",
+      "meaning": "بيانات نوعية",
+      "sentence": "Qualitative data from the interviews helped explain why residents opposed the plan.",
+      "sentence_ar": "ساعدت البيانات النوعية المستمدة من المقابلات في تفسير سبب معارضة السكان للخطة.",
+      "topic": "البحث الأكاديمي",
+      "id": "c1-vocab-063",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "impact assessment",
+      "meaning": "تقييم الأثر",
+      "sentence": "An impact assessment can reveal how the new law may affect small businesses.",
+      "sentence_ar": "يمكن لتقييم الأثر أن يكشف كيف قد يؤثر القانون الجديد في الشركات الصغيرة.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-064",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "cost-benefit analysis",
+      "meaning": "تحليل التكلفة والمنفعة",
+      "sentence": "The ministry used a cost-benefit analysis to compare the proposed transport projects.",
+      "sentence_ar": "استخدمت الوزارة تحليل التكلفة والمنفعة لمقارنة مشاريع النقل المقترحة.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-065",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "legislative scrutiny",
+      "meaning": "التدقيق التشريعي",
+      "sentence": "The bill underwent legislative scrutiny before it was put to a vote.",
+      "sentence_ar": "خضع مشروع القانون للتدقيق التشريعي قبل طرحه للتصويت.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-066",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "public accountability",
+      "meaning": "المساءلة العامة",
+      "sentence": "Public accountability improves when officials explain how they spend public funds.",
+      "sentence_ar": "تتحسن المساءلة العامة عندما يشرح المسؤولون كيفية إنفاقهم للأموال العامة.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-067",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "policy implementation",
+      "meaning": "تنفيذ السياسات",
+      "sentence": "Policy implementation was delayed because local offices lacked trained staff.",
+      "sentence_ar": "تأخر تنفيذ السياسات بسبب افتقار المكاتب المحلية إلى موظفين مدرّبين.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-068",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "social safety net",
+      "meaning": "شبكة الأمان الاجتماعي",
+      "sentence": "A strong social safety net can protect families during periods of unemployment.",
+      "sentence_ar": "يمكن لشبكة أمان اجتماعي قوية أن تحمي الأسر خلال فترات البطالة.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-069",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "discretionary power",
+      "meaning": "سلطة تقديرية",
+      "sentence": "The agency has discretionary power to grant extensions in exceptional cases.",
+      "sentence_ar": "تتمتع الوكالة بسلطة تقديرية لمنح تمديدات في الحالات الاستثنائية.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-070",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "unintended consequence",
+      "meaning": "نتيجة غير مقصودة",
+      "sentence": "One unintended consequence of the rule was that smaller clinics closed.",
+      "sentence_ar": "كانت إحدى النتائج غير المقصودة للقاعدة إغلاق عيادات أصغر.",
+      "topic": "السياسات العامة",
+      "id": "c1-vocab-071",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "data privacy",
+      "meaning": "خصوصية البيانات",
+      "sentence": "The new app raises questions about data privacy because it records users' locations.",
+      "sentence_ar": "يثير التطبيق الجديد تساؤلات بشأن خصوصية البيانات لأنه يسجل مواقع المستخدمين.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-072",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "training data",
+      "meaning": "بيانات التدريب",
+      "sentence": "The developers checked the training data for errors before building the system.",
+      "sentence_ar": "تحقق المطورون من خلو بيانات التدريب من الأخطاء قبل بناء النظام.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-073",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "predictive analytics",
+      "meaning": "التحليلات التنبؤية",
+      "sentence": "The hospital uses predictive analytics to estimate which patients may need extra support.",
+      "sentence_ar": "يستخدم المستشفى التحليلات التنبؤية لتقدير المرضى الذين قد يحتاجون إلى دعم إضافي.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-074",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "facial recognition",
+      "meaning": "التعرّف على الوجوه",
+      "sentence": "The airport introduced facial recognition to speed up identity checks.",
+      "sentence_ar": "أدخل المطار تقنية التعرّف على الوجوه لتسريع التحقق من الهوية.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-075",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "explainability",
+      "meaning": "قابلية التفسير",
+      "sentence": "Explainability matters when an automated system makes decisions that affect people's rights.",
+      "sentence_ar": "تكتسب قابلية التفسير أهمية عندما يتخذ نظام آلي قرارات تؤثر في حقوق الناس.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-076",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "cybersecurity",
+      "meaning": "الأمن السيبراني",
+      "sentence": "The university invested in cybersecurity after a series of attacks on its network.",
+      "sentence_ar": "استثمرت الجامعة في الأمن السيبراني بعد سلسلة من الهجمات على شبكتها.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-077",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "digital divide",
+      "meaning": "الفجوة الرقمية",
+      "sentence": "Limited internet access has widened the digital divide between urban and remote areas.",
+      "sentence_ar": "وسّع محدودية الوصول إلى الإنترنت الفجوة الرقمية بين المناطق الحضرية والنائية.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-078",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "data breach",
+      "meaning": "اختراق للبيانات",
+      "sentence": "The company notified its customers after a data breach exposed their email addresses.",
+      "sentence_ar": "أبلغت الشركة عملاءها بعد اختراق للبيانات كشف عناوين بريدهم الإلكتروني.",
+      "topic": "التقنية والذكاء الاصطناعي",
+      "id": "c1-vocab-079",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "comparative advantage",
+      "meaning": "الميزة النسبية",
+      "sentence": "The country built its export strategy around its comparative advantage in renewable materials.",
+      "sentence_ar": "بنت الدولة استراتيجيتها التصديرية على ميزتها النسبية في المواد المتجددة.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-080",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "value added",
+      "meaning": "القيمة المضافة",
+      "sentence": "Processing local crops before export creates more value added for the economy.",
+      "sentence_ar": "تؤدي معالجة المحاصيل المحلية قبل تصديرها إلى زيادة القيمة المضافة للاقتصاد.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-081",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "inflationary pressure",
+      "meaning": "ضغوط تضخمية",
+      "sentence": "Rising transport costs have added to inflationary pressure across the region.",
+      "sentence_ar": "أضافت تكاليف النقل المتزايدة إلى الضغوط التضخمية في أنحاء المنطقة.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-082",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "fiscal stimulus",
+      "meaning": "تحفيز مالي",
+      "sentence": "The government introduced fiscal stimulus to support demand during the downturn.",
+      "sentence_ar": "قدمت الحكومة تحفيزًا ماليًا لدعم الطلب خلال فترة الركود.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-083",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "foreign direct investment",
+      "meaning": "الاستثمار الأجنبي المباشر",
+      "sentence": "Foreign direct investment brought new technology and jobs to the region.",
+      "sentence_ar": "جلب الاستثمار الأجنبي المباشر تكنولوجيا جديدة وفرص عمل إلى المنطقة.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-084",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "economies of scale",
+      "meaning": "وفورات الحجم",
+      "sentence": "By expanding production, the firm achieved economies of scale and lowered its costs.",
+      "sentence_ar": "حققت الشركة وفورات الحجم وخفّضت تكاليفها من خلال توسيع الإنتاج.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-085",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "informal sector",
+      "meaning": "القطاع غير الرسمي",
+      "sentence": "Many workers in the informal sector have little access to pensions or paid leave.",
+      "sentence_ar": "لا يحصل كثير من العاملين في القطاع غير الرسمي إلا على قدر محدود من فرص التقاعد أو الإجازات المدفوعة.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-086",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "consumer confidence",
+      "meaning": "ثقة المستهلك",
+      "sentence": "Consumer confidence fell as households became less certain about their future income.",
+      "sentence_ar": "تراجعت ثقة المستهلك مع ازدياد قلق الأسر بشأن دخلها المستقبلي.",
+      "topic": "الاقتصاد والعولمة",
+      "id": "c1-vocab-087",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "cultural heritage",
+      "meaning": "التراث الثقافي",
+      "sentence": "The museum works with local communities to preserve their cultural heritage.",
+      "sentence_ar": "يعمل المتحف مع المجتمعات المحلية للحفاظ على تراثها الثقافي.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-088",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "censorship",
+      "meaning": "الرقابة",
+      "sentence": "Writers protested against censorship that prevented them from discussing sensitive issues.",
+      "sentence_ar": "احتج الكتّاب على الرقابة التي منعتهم من مناقشة قضايا حساسة.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-089",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "public opinion",
+      "meaning": "الرأي العام",
+      "sentence": "The debate shifted public opinion in favour of protecting the historic building.",
+      "sentence_ar": "غيّر النقاش الرأي العام لمصلحة حماية المبنى التاريخي.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-090",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "investigative journalism",
+      "meaning": "الصحافة الاستقصائية",
+      "sentence": "Investigative journalism uncovered irregularities in the city's housing programme.",
+      "sentence_ar": "كشفت الصحافة الاستقصائية مخالفات في برنامج الإسكان بالمدينة.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-091",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "audience engagement",
+      "meaning": "تفاعل الجمهور",
+      "sentence": "The broadcaster increased audience engagement by inviting viewers to submit questions.",
+      "sentence_ar": "زاد المذيع تفاعل الجمهور من خلال دعوة المشاهدين إلى إرسال أسئلتهم.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-092",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "misinformation",
+      "meaning": "معلومات مضللة",
+      "sentence": "The campaign taught students how to identify misinformation on social media.",
+      "sentence_ar": "علّمت الحملة الطلاب كيفية التعرّف على المعلومات المضللة في وسائل التواصل الاجتماعي.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-093",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "cultural appropriation",
+      "meaning": "الاستحواذ الثقافي",
+      "sentence": "The designer faced criticism for cultural appropriation after using sacred patterns without permission.",
+      "sentence_ar": "واجه المصمم انتقادات بسبب الاستحواذ الثقافي بعد استخدامه أنماطًا مقدسة من دون إذن.",
+      "topic": "الثقافة والإعلام",
+      "id": "c1-vocab-094",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "health inequality",
+      "meaning": "التفاوت الصحي",
+      "sentence": "Health inequality is evident in the different life expectancies of wealthy and deprived neighbourhoods.",
+      "sentence_ar": "يتضح التفاوت الصحي في اختلاف متوسط العمر المتوقع بين الأحياء الميسورة والمحرومة.",
+      "topic": "الصحة والاستدامة",
+      "id": "c1-vocab-095",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "clinical trial",
+      "meaning": "تجربة سريرية",
+      "sentence": "The treatment cannot be widely recommended until the clinical trial is complete.",
+      "sentence_ar": "لا يمكن التوصية بالعلاج على نطاق واسع حتى تكتمل التجربة السريرية.",
+      "topic": "الصحة والاستدامة",
+      "id": "c1-vocab-096",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "vaccination uptake",
+      "meaning": "الإقبال على التطعيم",
+      "sentence": "Clear advice from local doctors helped raise vaccination uptake among older adults.",
+      "sentence_ar": "ساعدت النصائح الواضحة من الأطباء المحليين على زيادة الإقبال على التطعيم بين كبار السن.",
+      "topic": "الصحة والاستدامة",
+      "id": "c1-vocab-097",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "biodiversity loss",
+      "meaning": "فقدان التنوع البيولوجي",
+      "sentence": "Habitat destruction is a major cause of biodiversity loss in the region.",
+      "sentence_ar": "يُعد تدمير الموائل سببًا رئيسيًا لفقدان التنوع البيولوجي في المنطقة.",
+      "topic": "الصحة والاستدامة",
+      "id": "c1-vocab-098",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "water scarcity",
+      "meaning": "شحّ المياه",
+      "sentence": "Water scarcity has forced farmers to switch to crops that need less irrigation.",
+      "sentence_ar": "أجبر شحّ المياه المزارعين على التحول إلى محاصيل تحتاج إلى ري أقل.",
+      "topic": "الصحة والاستدامة",
+      "id": "c1-vocab-099",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "energy efficiency",
+      "meaning": "كفاءة الطاقة",
+      "sentence": "Improving energy efficiency in older buildings can reduce both bills and emissions.",
+      "sentence_ar": "يمكن لتحسين كفاءة الطاقة في المباني القديمة أن يقلل الفواتير والانبعاثات معًا.",
+      "topic": "الصحة والاستدامة",
+      "id": "c1-vocab-100",
+      "source": "new_curriculum_2026"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "c1-quiz-01",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Fluency markers",
+      "options": [
+        "وصف الدرجة",
+        "العلوم الإنسانية",
+        "مقالة افتتاحية",
+        "مؤشرات الطلاقة"
+      ],
+      "answer": 3,
+      "explanation_ar": "كلمة Fluency markers تعني: مؤشرات الطلاقة."
+    },
+    {
+      "id": "c1-quiz-02",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Band descriptor",
+      "options": [
+        "مقالة افتتاحية",
+        "استخراج المعلومات",
+        "وصف الدرجة",
+        "العلوم الإنسانية"
+      ],
+      "answer": 2,
+      "explanation_ar": "كلمة Band descriptor تعني: وصف الدرجة."
+    },
+    {
+      "id": "c1-quiz-03",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Humanities",
+      "options": [
+        "نص التسجيل الصوتي",
+        "العلوم الإنسانية",
+        "مقالة افتتاحية",
+        "استخراج المعلومات"
+      ],
+      "answer": 1,
+      "explanation_ar": "كلمة Humanities تعني: العلوم الإنسانية."
+    },
+    {
+      "id": "c1-quiz-04",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Editorial",
+      "options": [
+        "مقالة افتتاحية",
+        "استخراج المعلومات",
+        "نص التسجيل الصوتي",
+        "تفاوت / اختلاف"
+      ],
+      "answer": 0,
+      "explanation_ar": "كلمة Editorial تعني: مقالة افتتاحية."
+    },
+    {
+      "id": "c1-quiz-05",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Information retrieval is easier when you scan for key words.",
+      "options": [
+        "تجعل وحدة الموضوع الفقرة تركز على فكرة محورية واحدة.",
+        "ينبغي أن تعبّر عبارة الأطروحة عن الحجة الرئيسية بوضوح.",
+        "يسهل استخراج المعلومات عندما تبحث عن الكلمات المفتاحية.",
+        "تتحسن الاستجابة للمهمة عندما تدعم رأيك بالأسباب."
+      ],
+      "answer": 2,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "c1-quiz-06",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Use the tapescript to check what you heard.",
+      "options": [
+        "توضح الحجة المعاكسة ما قد يقوله شخص لديه رأي مختلف.",
+        "استخدم نص التسجيل الصوتي للتحقق مما سمعته.",
+        "تجعل وحدة الموضوع الفقرة تركز على فكرة محورية واحدة.",
+        "ينبغي أن تعبّر عبارة الأطروحة عن الحجة الرئيسية بوضوح."
+      ],
+      "answer": 1,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "c1-quiz-07",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ There is a discrepancy between the two reports.",
+      "options": [
+        "هناك اختلاف بين التقريرين.",
+        "ينبغي أن تعبّر عبارة الأطروحة عن الحجة الرئيسية بوضوح.",
+        "توضح الحجة المعاكسة ما قد يقوله شخص لديه رأي مختلف.",
+        "يوضح الرد على الحجة سبب عدم إقناع تلك الحجة المعارضة."
+      ],
+      "answer": 0,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "c1-quiz-08",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ Use linking words to improve cohesion in your essay.",
+      "options": [
+        "توضح الحجة المعاكسة ما قد يقوله شخص لديه رأي مختلف.",
+        "يوضح الرد على الحجة سبب عدم إقناع تلك الحجة المعارضة.",
+        "كشفت مراجعة الأقران نقاط ضعف أغفلها المؤلفون.",
+        "استخدم كلمات الربط لتحسين تماسك مقالك."
+      ],
+      "answer": 3,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "c1-quiz-09",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «المبني للمجهول غير الشخصي»؟",
+      "options": [
+        "Never have I seen such a careful analysis.",
+        "It is widely believed that sleep improves memory.",
+        "Provided that the data are accurate, the conclusion is reasonable.",
+        "Having reviewed the evidence, the panel reached a decision."
+      ],
+      "answer": 1,
+      "explanation_ar": "نستخدم It is believed that وHe is thought to لنقل الاعتقاد أو التقرير بأسلوب رسمي. في التقارير والكتابة الأكاديمية."
+    },
+    {
+      "id": "c1-quiz-10",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الجمل الشرطية المعقدة»؟",
+      "options": [
+        "Provided that the data are accurate, the conclusion is reasonable.",
+        "Having reviewed the evidence, the panel reached a decision.",
+        "Never have I seen such a careful analysis.",
+        "What matters is the quality of the evidence."
+      ],
+      "answer": 0,
+      "explanation_ar": "نمزج الأزمنة ونستخدم unless وprovided that وas long as لتحديد الشروط الدقيقة. لتحليل العلاقات والنتائج المعقدة."
+    },
+    {
+      "id": "c1-quiz-11",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «جمل المشاركة»؟",
+      "options": [
+        "Never have I seen such a careful analysis.",
+        "What matters is the quality of the evidence.",
+        "The results appear to support the original hypothesis.",
+        "Having reviewed the evidence, the panel reached a decision."
+      ],
+      "answer": 3,
+      "explanation_ar": "يمكن اختصار جمل الوصل أو الجمل الزمنية باستخدام present أو past participle. لتقليل التكرار وجعل الأسلوب أكثر كثافة."
+    },
+    {
+      "id": "c1-quiz-12",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «الانعكاس بعد العبارات السلبية»؟",
+      "options": [
+        "The results appear to support the original hypothesis.",
+        "The rapid expansion of the service created new demands.",
+        "Never have I seen such a careful analysis.",
+        "What matters is the quality of the evidence."
+      ],
+      "answer": 2,
+      "explanation_ar": "بعد never وrarely وnot only في بداية الجملة نستخدم ترتيب السؤال للتوكيد. في الأسلوب الرسمي والتوكيدي."
+    }
+  ],
+  "can_do": [
+    "فهم النصوص الطويلة واستخلاص المعنى الضمني.",
+    "استخدام اللغة بمرونة وفعالية في الدراسة والعمل.",
+    "كتابة نصوص منظمة ومفصلة مع ضبط النبرة والأسلوب."
+  ],
+  "course_file": "data/courses/C1.json"
+}

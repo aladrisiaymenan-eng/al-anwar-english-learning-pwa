@@ -1,0 +1,33 @@
+{
+  "name": "معهد الأنوار لتعلّم اللغة الإنجليزية",
+  "short_name": "الأنوار",
+  "description": "منصة عربية لتعلّم الإنجليزية من A1 إلى C2 مع اختبار تحديد مستوى ومراجعة يومية وعمل دون اتصال.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f5f2",
+  "theme_color": "#183b3b",
+  "categories": [
+    "education",
+    "language",
+    "books"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "./"
+}

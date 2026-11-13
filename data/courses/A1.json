@@ -1,0 +1,1517 @@
+{
+  "title": "المبتدئ",
+  "band": "مستخدم أساسي",
+  "description": "التواصل في المواقف اليومية البسيطة والتعريف بالنفس وفهم العبارات المألوفة.",
+  "themes": [
+    "التعارف والبيانات الشخصية",
+    "العائلة والمنزل",
+    "الوقت والروتين",
+    "الطعام والتسوق",
+    "المدينة والاتجاهات",
+    "الهوايات والطقس"
+  ],
+  "grammar": [
+    "ضمائر الفاعل والملكية",
+    "فعل be: الإثبات والنفي والأسئلة",
+    "المضارع البسيط و do/does",
+    "have / have got",
+    "a/an/the وzero article",
+    "المفرد والجمع والمعدود وغير المعدود",
+    "there is / there are",
+    "can / can’t",
+    "حروف الجر الأساسية للمكان والزمان",
+    "أسئلة Wh والأوامر والطلبات البسيطة"
+  ],
+  "level": "A1",
+  "grammar_lessons": [
+    {
+      "id": "a1-grammar-01",
+      "title": "ضمائر الفاعل والملكية",
+      "explanation_ar": "نستخدم I, you, he, she, it, we, they للفاعل، وmy, your, his, her, its, our, their لبيان الملكية.",
+      "how_to_apply_ar": "اختر الضمير حسب من يقوم بالفعل، ثم استخدم ضمير الملكية قبل الاسم.",
+      "example": "My sister is a teacher. Her students are friendly.",
+      "example_ar": "أختي معلمة. طلابها ودودون.",
+      "common_mistake_ar": "لا نقول Her is a teacher؛ الفاعل هو She، والملكية هي Her.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «ضمائر الفاعل والملكية» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a1-grammar-02",
+      "title": "فعل be في الإثبات والنفي والسؤال",
+      "explanation_ar": "يأتي am مع I، وis مع he/she/it، وare مع you/we/they. للنفي نضيف not، وللسؤال نقدم فعل be.",
+      "how_to_apply_ar": "استخدمه للتعريف والصفات والمكان والعمر.",
+      "example": "Are you ready? — Yes, I am.",
+      "example_ar": "هل أنت مستعد؟ — نعم، أنا مستعد.",
+      "common_mistake_ar": "لا تستخدم do مع be في السؤال: قل Are you happy? لا Do you happy?",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «فعل be في الإثبات والنفي والسؤال» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a1-grammar-03",
+      "title": "أدوات التنكير والتعريف والجمع",
+      "explanation_ar": "نستخدم a قبل اسم مفرد يبدأ بصوت ساكن، وan قبل صوت متحرك، وthe لشيء محدد، ونضيف s غالبًا للجمع.",
+      "how_to_apply_ar": "طبّقها عند ذكر الأشخاص والأشياء لأول مرة أو عند تحديدها.",
+      "example": "I have an umbrella and two books. The umbrella is blue.",
+      "example_ar": "لدي مظلة وكتابان. المظلة زرقاء.",
+      "common_mistake_ar": "لا نضع a قبل الجمع: a books خطأ.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «أدوات التنكير والتعريف والجمع» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a1-grammar-04",
+      "title": "المضارع البسيط",
+      "explanation_ar": "يتكون من الفعل الأساسي، ونضيف s أو es مع he/she/it. في النفي والسؤال نستخدم do/does.",
+      "how_to_apply_ar": "للعادات والحقائق والروتين.",
+      "example": "She works at a hospital, but she does not work on Friday.",
+      "example_ar": "هي تعمل في مستشفى، لكنها لا تعمل يوم الجمعة.",
+      "common_mistake_ar": "بعد does نستخدم الفعل الأساسي: Does he work?",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «المضارع البسيط» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a1-grammar-05",
+      "title": "There is وThere are",
+      "explanation_ar": "نستخدم There is مع المفرد وThere are مع الجمع، ويمكن تحويلهما إلى سؤال أو نفي.",
+      "how_to_apply_ar": "لوصف وجود شيء في مكان.",
+      "example": "There are three chairs in the room.",
+      "example_ar": "هناك ثلاثة كراسٍ في الغرفة.",
+      "common_mistake_ar": "لا نقول There is three chairs؛ الجمع يحتاج There are.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «There is وThere are» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a1-grammar-06",
+      "title": "Have وHave got",
+      "explanation_ar": "نستخدم have أو have got للملكية والعلاقات والأشياء التي نمتلكها.",
+      "how_to_apply_ar": "للتحدث عما نملك أو عن أفراد الأسرة.",
+      "example": "I have got a new phone.",
+      "example_ar": "لدي هاتف جديد.",
+      "common_mistake_ar": "مع he/she نقول has أو has got: She has a car.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «Have وHave got» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a1-grammar-07",
+      "title": "Can للقدرة والطلب",
+      "explanation_ar": "بعد can نستخدم الفعل الأساسي دون to، والنفي cannot أو can’t، والسؤال يبدأ بـ Can.",
+      "how_to_apply_ar": "للتحدث عن القدرة أو طلب بسيط.",
+      "example": "Can you help me? I can carry this bag.",
+      "example_ar": "هل يمكنك مساعدتي؟ أستطيع حمل هذه الحقيبة.",
+      "common_mistake_ar": "لا نقول can to help أو can helps.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «Can للقدرة والطلب» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a1-grammar-08",
+      "title": "أدوات السؤال",
+      "explanation_ar": "نستخدم what للأشياء، where للمكان، when للوقت، who للشخص، why للسبب، وhow للطريقة أو الحال.",
+      "how_to_apply_ar": "لبناء أسئلة معلوماتية واضحة.",
+      "example": "Where do you live?",
+      "example_ar": "أين تعيش؟",
+      "common_mistake_ar": "لا تجب عن سؤال where باسم وقت أو سبب.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «أدوات السؤال» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a1-grammar-09",
+      "title": "حروف الجر الأساسية",
+      "explanation_ar": "نستخدم in للداخل أو الشهور والسنوات، on للأيام والأسطح، at للوقت المحدد وبعض الأماكن.",
+      "how_to_apply_ar": "لتحديد المكان والوقت.",
+      "example": "The class starts at nine on Monday.",
+      "example_ar": "يبدأ الصف في التاسعة يوم الاثنين.",
+      "common_mistake_ar": "نقول on Monday وat nine، وليس at Monday.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «حروف الجر الأساسية» ثم قارنها بالمثال."
+    },
+    {
+      "id": "a1-grammar-10",
+      "title": "الأمر والنهي",
+      "explanation_ar": "يبدأ الأمر بالفعل الأساسي، وللنهي نستخدم Don’t ثم الفعل الأساسي.",
+      "how_to_apply_ar": "للتعليمات والنصائح القصيرة.",
+      "example": "Please open the book. Don’t write here.",
+      "example_ar": "من فضلك افتح الكتاب. لا تكتب هنا.",
+      "common_mistake_ar": "لا نضع to بعد Don’t في الأمر.",
+      "practice_prompt_ar": "اكتب جملة من إنشائك تطبق قاعدة «الأمر والنهي» ثم قارنها بالمثال."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "a1-vocab-001",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Example",
+      "meaning": "مثال",
+      "sentence": "The teacher gave an example to explain the rule.",
+      "sentence_ar": "قدّم المعلم مثالًا لشرح القاعدة.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-002",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Idea",
+      "meaning": "فكرة",
+      "sentence": "I have an idea for our class project.",
+      "sentence_ar": "لدي فكرة لمشروع صفنا.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-003",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Question",
+      "meaning": "سؤال",
+      "sentence": "She asked a question about the train schedule.",
+      "sentence_ar": "طرحت سؤالًا عن مواعيد القطارات.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-004",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Answer",
+      "meaning": "إجابة",
+      "sentence": "Her answer was clear and easy to understand.",
+      "sentence_ar": "كانت إجابتها واضحة وسهلة الفهم.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-005",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Hometown",
+      "meaning": "المدينة الأم / مسقط الرأس",
+      "sentence": "My hometown is a small city near the sea.",
+      "sentence_ar": "مدينتي الأم مدينة صغيرة قرب البحر.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-006",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Work",
+      "meaning": "العمل",
+      "sentence": "I work at a bookstore near my home.",
+      "sentence_ar": "أعمل في مكتبة لبيع الكتب بالقرب من منزلي.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-007",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Study",
+      "meaning": "الدراسة",
+      "sentence": "I study English for thirty minutes each evening.",
+      "sentence_ar": "أدرس الإنجليزية لمدة ثلاثين دقيقة كل مساء.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-008",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Hobby",
+      "meaning": "هواية",
+      "sentence": "My favorite hobby is painting pictures of flowers.",
+      "sentence_ar": "هوايتي المفضلة هي رسم صور للزهور.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-009",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Free time",
+      "meaning": "وقت الفراغ",
+      "sentence": "I often read novels in my free time.",
+      "sentence_ar": "غالبًا ما أقرأ الروايات في وقت فراغي.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-010",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Food",
+      "meaning": "الطعام",
+      "sentence": "Fresh food gives me energy throughout the day.",
+      "sentence_ar": "يمنحني الطعام الطازج الطاقة طوال اليوم.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-011",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Travel",
+      "meaning": "السفر",
+      "sentence": "Travel helps us learn about different cultures.",
+      "sentence_ar": "يساعدنا السفر على التعرّف إلى ثقافات مختلفة.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-012",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Family",
+      "meaning": "العائلة",
+      "sentence": "My family eats dinner together every Friday.",
+      "sentence_ar": "تتناول عائلتي العشاء معًا كل يوم جمعة.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-013",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Friends",
+      "meaning": "الأصدقاء",
+      "sentence": "My friends often help me when I feel worried.",
+      "sentence_ar": "غالبًا ما يساعدني أصدقائي عندما أشعر بالقلق.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-014",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50",
+      "word": "Story",
+      "meaning": "قصة",
+      "sentence": "He told us a funny story about his first job.",
+      "sentence_ar": "حكى لنا قصة مضحكة عن وظيفته الأولى.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-015",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100",
+      "word": "Daily routine",
+      "meaning": "الروتين اليومي",
+      "sentence": "A simple daily routine helps me stay organized.",
+      "sentence_ar": "يساعدني الروتين اليومي البسيط على تنظيم وقتي.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a1-vocab-016",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100",
+      "word": "Feeling",
+      "meaning": "شعور",
+      "sentence": "I had a strange feeling that someone was nearby.",
+      "sentence_ar": "راودني شعور غريب بأن شخصًا ما كان قريبًا.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a1-vocab-017",
+      "section": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100",
+      "word": "Smile",
+      "meaning": "ابتسامة",
+      "sentence": "A warm smile made the new student feel welcome.",
+      "sentence_ar": "جعلت ابتسامة دافئة الطالب الجديد يشعر بالترحيب.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم المحادثة (Speaking) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a1-vocab-018",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "True",
+      "meaning": "صحيح",
+      "sentence": "Mark the statement true if the passage supports it.",
+      "sentence_ar": "ضع علامة على العبارة بأنها صحيحة إذا كان النص يؤيدها.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-019",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "False",
+      "meaning": "خطأ",
+      "sentence": "The claim is false because the figures do not match.",
+      "sentence_ar": "هذا الادعاء خاطئ لأن الأرقام لا تتطابق.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-020",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "List",
+      "meaning": "قائمة",
+      "sentence": "Make a list of the books you have read.",
+      "sentence_ar": "أعد قائمة بالكتب التي قرأتها.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-021",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Table",
+      "meaning": "جدول",
+      "sentence": "The table shows each country's population and area.",
+      "sentence_ar": "يوضح الجدول عدد السكان والمساحة لكل بلد.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-022",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Number",
+      "meaning": "رقم",
+      "sentence": "Write your phone number at the top of the form.",
+      "sentence_ar": "اكتب رقم هاتفك في أعلى النموذج.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-023",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Choose",
+      "meaning": "يختار",
+      "sentence": "Choose the best answer from the four options.",
+      "sentence_ar": "اختر أفضل إجابة من بين الخيارات الأربعة.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-024",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Problem",
+      "meaning": "مشكلة",
+      "sentence": "We need to solve this problem before the meeting.",
+      "sentence_ar": "علينا حل هذه المشكلة قبل الاجتماع.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-025",
+      "section": "قسم القراءة (Reading) - الكلمات من 1 إلى 50",
+      "word": "Title",
+      "meaning": "عنوان",
+      "sentence": "Choose a short title that describes your report.",
+      "sentence_ar": "اختر عنواناً قصيراً يصف تقريرك.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-026",
+      "section": "قسم القراءة (Reading) - الكلمات من 51 إلى 100",
+      "word": "Note",
+      "meaning": "ملاحظة",
+      "sentence": "I made a note to review this chapter tonight.",
+      "sentence_ar": "دوّنت ملاحظة لمراجعة هذا الفصل الليلة.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم القراءة (Reading) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a1-vocab-027",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Speaker",
+      "meaning": "المتحدث",
+      "sentence": "The speaker paused briefly before answering the audience's question.",
+      "sentence_ar": "توقف المتحدث قليلًا قبل الإجابة عن سؤال الجمهور.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-028",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Noise",
+      "meaning": "ضوضاء",
+      "sentence": "The noise outside made it hard to hear the teacher.",
+      "sentence_ar": "جعلت الضوضاء في الخارج سماع المعلم صعبًا.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-029",
+      "section": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50",
+      "word": "Repeat",
+      "meaning": "يكرر",
+      "sentence": "Please repeat the last sentence more slowly.",
+      "sentence_ar": "من فضلك، كرر الجملة الأخيرة ببطء أكثر.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-030",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Information",
+      "meaning": "معلومات",
+      "sentence": "The website provides useful information about local buses.",
+      "sentence_ar": "يقدم الموقع معلومات مفيدة عن الحافلات المحلية.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a1-vocab-031",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Map",
+      "meaning": "خريطة",
+      "sentence": "Check the map before you leave the hotel.",
+      "sentence_ar": "تحقق من الخريطة قبل مغادرة الفندق.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a1-vocab-032",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Guess",
+      "meaning": "يخمّن",
+      "sentence": "Can you guess the answer from these clues?",
+      "sentence_ar": "هل يمكنك تخمين الإجابة من هذه الأدلة؟",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a1-vocab-033",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Match",
+      "meaning": "يطابق",
+      "sentence": "Match each word with its correct meaning.",
+      "sentence_ar": "طابق كل كلمة مع معناها الصحيح.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a1-vocab-034",
+      "section": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100",
+      "word": "Level",
+      "meaning": "مستوى",
+      "sentence": "This course is suitable for your current level.",
+      "sentence_ar": "هذه الدورة مناسبة لمستواك الحالي.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الاستماع (Listening) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a1-vocab-035",
+      "section": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50",
+      "word": "Sentence",
+      "meaning": "جملة",
+      "sentence": "This sentence is clear and easy to understand.",
+      "sentence_ar": "هذه الجملة واضحة وسهلة الفهم.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-036",
+      "section": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50",
+      "word": "Plan",
+      "meaning": "يخطط",
+      "sentence": "Plan your essay before you start writing.",
+      "sentence_ar": "خطط لمقالك قبل أن تبدأ الكتابة.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 1 إلى 50"
+    },
+    {
+      "id": "a1-vocab-037",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Everywhere",
+      "meaning": "في كل مكان",
+      "sentence": "You can find small cafés everywhere in this neighborhood.",
+      "sentence_ar": "يمكنك أن تجد مقاهي صغيرة في كل مكان في هذا الحي.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "id": "a1-vocab-038",
+      "section": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100",
+      "word": "Change",
+      "meaning": "تغيير",
+      "sentence": "A small change in your routine can save time.",
+      "sentence_ar": "يمكن لتغيير بسيط في روتينك أن يوفر الوقت.",
+      "level": "A1",
+      "source": "ملف الطالب الأصلي",
+      "topic": "قسم الكتابة (Writing) - الكلمات من 51 إلى 100"
+    },
+    {
+      "word": "name",
+      "meaning": "اسم",
+      "sentence": "My name is Sara, and I am from Oman.",
+      "sentence_ar": "اسمي سارة، وأنا من عُمان.",
+      "topic": "التعارف والبيانات الشخصية",
+      "id": "a1-vocab-039",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "age",
+      "meaning": "عمر",
+      "sentence": "He is twelve years old today.",
+      "sentence_ar": "عمره اثنا عشر عامًا اليوم.",
+      "topic": "التعارف والبيانات الشخصية",
+      "id": "a1-vocab-040",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "address",
+      "meaning": "عنوان",
+      "sentence": "Please write your address on this paper.",
+      "sentence_ar": "من فضلك، اكتب عنوانك على هذه الورقة.",
+      "topic": "التعارف والبيانات الشخصية",
+      "id": "a1-vocab-041",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "phone number",
+      "meaning": "رقم الهاتف",
+      "sentence": "My phone number is in my small notebook.",
+      "sentence_ar": "رقم هاتفي في دفتري الصغير.",
+      "topic": "التعارف والبيانات الشخصية",
+      "id": "a1-vocab-042",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "country",
+      "meaning": "بلد",
+      "sentence": "Egypt is a beautiful country with many old cities.",
+      "sentence_ar": "مصر بلد جميل فيه مدن قديمة كثيرة.",
+      "topic": "التعارف والبيانات الشخصية",
+      "id": "a1-vocab-043",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "language",
+      "meaning": "لغة",
+      "sentence": "Arabic is my first language, and I study English.",
+      "sentence_ar": "العربية لغتي الأولى، وأنا أدرس الإنجليزية.",
+      "topic": "التعارف والبيانات الشخصية",
+      "id": "a1-vocab-044",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "parents",
+      "meaning": "الوالدان",
+      "sentence": "My parents live in a small house near the sea.",
+      "sentence_ar": "يعيش والداي في منزل صغير قرب البحر.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-045",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "mother",
+      "meaning": "أم",
+      "sentence": "My mother works at a hospital in the city.",
+      "sentence_ar": "تعمل أمي في مستشفى في المدينة.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-046",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "father",
+      "meaning": "أب",
+      "sentence": "My father cooks rice on Sunday evenings.",
+      "sentence_ar": "يطبخ أبي الأرز مساء كل يوم أحد.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-047",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "sister",
+      "meaning": "أخت",
+      "sentence": "My sister has a blue room upstairs.",
+      "sentence_ar": "لدى أختي غرفة زرقاء في الطابق العلوي.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-048",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "brother",
+      "meaning": "أخ",
+      "sentence": "My brother plays football after school.",
+      "sentence_ar": "يلعب أخي كرة القدم بعد المدرسة.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-049",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "house",
+      "meaning": "منزل",
+      "sentence": "Their house has a garden and three bedrooms.",
+      "sentence_ar": "لديهم منزل فيه حديقة وثلاث غرف نوم.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-050",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "room",
+      "meaning": "غرفة",
+      "sentence": "This room has one bed and a large window.",
+      "sentence_ar": "في هذه الغرفة سرير واحد ونافذة كبيرة.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-051",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "kitchen",
+      "meaning": "مطبخ",
+      "sentence": "My grandmother is in the kitchen now.",
+      "sentence_ar": "جدتي في المطبخ الآن.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-052",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "bedroom",
+      "meaning": "غرفة نوم",
+      "sentence": "The bedroom has a desk beside the bed.",
+      "sentence_ar": "في غرفة النوم مكتب بجانب السرير.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-053",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "morning",
+      "meaning": "صباح",
+      "sentence": "I wake up at seven every morning.",
+      "sentence_ar": "أستيقظ في السابعة كل صباح.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-054",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "evening",
+      "meaning": "مساء",
+      "sentence": "We watch television together in the evening.",
+      "sentence_ar": "نشاهد التلفاز معًا في المساء.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-055",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "wake up",
+      "meaning": "يستيقظ",
+      "sentence": "I wake up early and get dressed for school.",
+      "sentence_ar": "أستيقظ مبكرًا وأرتدي ملابسي للمدرسة.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-056",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "go to bed",
+      "meaning": "يذهب إلى الفراش",
+      "sentence": "The children go to bed at nine o’clock.",
+      "sentence_ar": "يذهب الأطفال إلى الفراش عند الساعة التاسعة.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-057",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "clock",
+      "meaning": "ساعة",
+      "sentence": "The clock is on the wall near the door.",
+      "sentence_ar": "الساعة على الحائط قرب الباب.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-058",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "breakfast",
+      "meaning": "إفطار",
+      "sentence": "Breakfast is ready at seven in our kitchen.",
+      "sentence_ar": "الإفطار جاهز في مطبخنا عند الساعة السابعة.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-059",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "lunch",
+      "meaning": "غداء",
+      "sentence": "I eat lunch with my sister at school.",
+      "sentence_ar": "أتناول الغداء مع أختي في المدرسة.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-060",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "dinner",
+      "meaning": "عشاء",
+      "sentence": "We have dinner together at home every evening.",
+      "sentence_ar": "نتناول العشاء معًا في المنزل كل مساء.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-061",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "bread",
+      "meaning": "خبز",
+      "sentence": "We eat bread with cheese for breakfast.",
+      "sentence_ar": "نأكل الخبز مع الجبن على الإفطار.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-062",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "milk",
+      "meaning": "حليب",
+      "sentence": "He drinks a glass of milk before school.",
+      "sentence_ar": "يشرب كوبًا من الحليب قبل المدرسة.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-063",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "apple",
+      "meaning": "تفاحة",
+      "sentence": "She has a red apple in her lunch bag.",
+      "sentence_ar": "لديها تفاحة حمراء في حقيبة غدائها.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-064",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "shop",
+      "meaning": "متجر",
+      "sentence": "This small shop sells bread, milk, and eggs.",
+      "sentence_ar": "يبيع هذا المتجر الصغير الخبز والحليب والبيض.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-065",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "buy",
+      "meaning": "يشتري",
+      "sentence": "I buy two apples and a bottle of milk.",
+      "sentence_ar": "أشتري تفاحتين وزجاجة من الحليب.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-066",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "price",
+      "meaning": "سعر",
+      "sentence": "The price of this shirt is ten dollars.",
+      "sentence_ar": "سعر هذا القميص عشرة دولارات.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-067",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "market",
+      "meaning": "سوق",
+      "sentence": "My aunt buys oranges at the market every Friday.",
+      "sentence_ar": "تشتري عمتي البرتقال من السوق كل يوم جمعة.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-068",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "street",
+      "meaning": "شارع",
+      "sentence": "Our school is on a quiet street near the park.",
+      "sentence_ar": "مدرستنا في شارع هادئ قرب الحديقة.",
+      "topic": "المدينة والاتجاهات",
+      "id": "a1-vocab-069",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "bus stop",
+      "meaning": "موقف الحافلة",
+      "sentence": "The bus stop is beside the post office.",
+      "sentence_ar": "موقف الحافلة بجانب مكتب البريد.",
+      "topic": "المدينة والاتجاهات",
+      "id": "a1-vocab-070",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "left",
+      "meaning": "يسار",
+      "sentence": "Turn left at the first street after the bank.",
+      "sentence_ar": "انعطف يسارًا عند أول شارع بعد البنك.",
+      "topic": "المدينة والاتجاهات",
+      "id": "a1-vocab-071",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "right",
+      "meaning": "يمين",
+      "sentence": "The bus stop is on the right side of the street.",
+      "sentence_ar": "موقف الحافلة على الجانب الأيمن من الشارع.",
+      "topic": "المدينة والاتجاهات",
+      "id": "a1-vocab-072",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "park",
+      "meaning": "حديقة",
+      "sentence": "Children play in the park after school.",
+      "sentence_ar": "يلعب الأطفال في الحديقة بعد المدرسة.",
+      "topic": "المدينة والاتجاهات",
+      "id": "a1-vocab-073",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "sunny",
+      "meaning": "مشمس",
+      "sentence": "It is sunny today, so we can walk to school.",
+      "sentence_ar": "الجو مشمس اليوم، لذا يمكننا المشي إلى المدرسة.",
+      "topic": "الهوايات والطقس",
+      "id": "a1-vocab-074",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "rainy",
+      "meaning": "ممطر",
+      "sentence": "Take an umbrella; it is rainy this afternoon.",
+      "sentence_ar": "خذ مظلة؛ فالجو ممطر بعد ظهر اليوم.",
+      "topic": "الهوايات والطقس",
+      "id": "a1-vocab-075",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "windy",
+      "meaning": "عاصف",
+      "sentence": "It is windy, so close the kitchen window.",
+      "sentence_ar": "الجو عاصف، لذا أغلق نافذة المطبخ.",
+      "topic": "الهوايات والطقس",
+      "id": "a1-vocab-076",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "swim",
+      "meaning": "يسبح",
+      "sentence": "We swim in the pool every Saturday morning.",
+      "sentence_ar": "نسبح في المسبح كل صباح يوم سبت.",
+      "topic": "الهوايات والطقس",
+      "id": "a1-vocab-077",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "read",
+      "meaning": "يقرأ",
+      "sentence": "I read a short story before I go to bed.",
+      "sentence_ar": "أقرأ قصة قصيرة قبل أن أذهب إلى الفراش.",
+      "topic": "الهوايات والطقس",
+      "id": "a1-vocab-078",
+      "level": "A1",
+      "source": "إضافة منهجية مستندة إلى موضوعات CEFR"
+    },
+    {
+      "word": "hello",
+      "meaning": "مرحبًا",
+      "sentence": "I say hello to my new teacher.",
+      "sentence_ar": "أقول مرحبًا لمعلمي الجديد.",
+      "topic": "التعارف والبيانات الشخصية",
+      "id": "a1-vocab-079",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "surname",
+      "meaning": "اسم العائلة",
+      "sentence": "My surname is Ali.",
+      "sentence_ar": "اسم عائلتي علي.",
+      "topic": "التعارف والبيانات الشخصية",
+      "id": "a1-vocab-080",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "email",
+      "meaning": "بريد إلكتروني",
+      "sentence": "Please send me an email.",
+      "sentence_ar": "من فضلك أرسل لي بريدًا إلكترونيًا.",
+      "topic": "التعارف والبيانات الشخصية",
+      "id": "a1-vocab-081",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "nationality",
+      "meaning": "الجنسية",
+      "sentence": "What is your nationality?",
+      "sentence_ar": "ما جنسيتك؟",
+      "topic": "التعارف والبيانات الشخصية",
+      "id": "a1-vocab-082",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "single",
+      "meaning": "غير متزوج",
+      "sentence": "My uncle is single.",
+      "sentence_ar": "عمي غير متزوج.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-083",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "married",
+      "meaning": "متزوج",
+      "sentence": "My aunt is married.",
+      "sentence_ar": "عمتي متزوجة.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-084",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "son",
+      "meaning": "ابن",
+      "sentence": "Their son is five years old.",
+      "sentence_ar": "ابنهما عمره خمس سنوات.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-085",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "daughter",
+      "meaning": "ابنة",
+      "sentence": "Her daughter is at school.",
+      "sentence_ar": "ابنتها في المدرسة.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-086",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "husband",
+      "meaning": "زوج",
+      "sentence": "Her husband works in a café.",
+      "sentence_ar": "زوجها يعمل في مقهى.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-087",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "wife",
+      "meaning": "زوجة",
+      "sentence": "His wife is very kind.",
+      "sentence_ar": "زوجته لطيفة جدًا.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-088",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "child",
+      "meaning": "طفل",
+      "sentence": "I have one child.",
+      "sentence_ar": "لدي طفل واحد.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-089",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "bathroom",
+      "meaning": "حمّام",
+      "sentence": "The bathroom is next to my bedroom.",
+      "sentence_ar": "الحمّام بجانب غرفة نومي.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-090",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "door",
+      "meaning": "باب",
+      "sentence": "Please close the door.",
+      "sentence_ar": "من فضلك أغلق الباب.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-091",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "window",
+      "meaning": "نافذة",
+      "sentence": "The window is open.",
+      "sentence_ar": "النافذة مفتوحة.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-092",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "bed",
+      "meaning": "سرير",
+      "sentence": "My bed is very comfortable.",
+      "sentence_ar": "سريري مريح جدًا.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-093",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "chair",
+      "meaning": "كرسي",
+      "sentence": "Please sit on this chair.",
+      "sentence_ar": "من فضلك اجلس على هذا الكرسي.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-094",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "garden",
+      "meaning": "حديقة",
+      "sentence": "We have flowers in our garden.",
+      "sentence_ar": "لدينا أزهار في حديقتنا.",
+      "topic": "العائلة والمنزل",
+      "id": "a1-vocab-095",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "clean",
+      "meaning": "ينظف",
+      "sentence": "I clean my room every Saturday.",
+      "sentence_ar": "أنظف غرفتي كل يوم سبت.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-096",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "afternoon",
+      "meaning": "بعد الظهر",
+      "sentence": "I play tennis in the afternoon.",
+      "sentence_ar": "ألعب التنس بعد الظهر.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-097",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "night",
+      "meaning": "ليل",
+      "sentence": "The stars are bright tonight.",
+      "sentence_ar": "النجوم ساطعة الليلة.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-098",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "today",
+      "meaning": "اليوم",
+      "sentence": "I am at home today.",
+      "sentence_ar": "أنا في المنزل اليوم.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-099",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "tomorrow",
+      "meaning": "غدًا",
+      "sentence": "We have a test tomorrow.",
+      "sentence_ar": "لدينا اختبار غدًا.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-100",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "week",
+      "meaning": "أسبوع",
+      "sentence": "I visit my grandmother once a week.",
+      "sentence_ar": "أزور جدتي مرة في الأسبوع.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-101",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "early",
+      "meaning": "مبكرًا",
+      "sentence": "Sam gets up early every day.",
+      "sentence_ar": "يستيقظ سام مبكرًا كل يوم.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-102",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "shower",
+      "meaning": "دُشّ",
+      "sentence": "I take a shower after the game.",
+      "sentence_ar": "أستحم بعد المباراة.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-103",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "wash",
+      "meaning": "يغسل",
+      "sentence": "I wash my hands before dinner.",
+      "sentence_ar": "أغسل يديّ قبل العشاء.",
+      "topic": "الوقت والروتين",
+      "id": "a1-vocab-104",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "water",
+      "meaning": "ماء",
+      "sentence": "Can I have a glass of water?",
+      "sentence_ar": "هل يمكنني الحصول على كوب من الماء؟",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-105",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "tea",
+      "meaning": "شاي",
+      "sentence": "My grandmother drinks tea every morning.",
+      "sentence_ar": "تشرب جدتي الشاي كل صباح.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-106",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "coffee",
+      "meaning": "قهوة",
+      "sentence": "He has coffee with his breakfast.",
+      "sentence_ar": "يشرب القهوة مع وجبة فطوره.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-107",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "egg",
+      "meaning": "بيضة",
+      "sentence": "I eat an egg for breakfast.",
+      "sentence_ar": "آكل بيضة على الفطور.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-108",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "cheese",
+      "meaning": "جبن",
+      "sentence": "She puts cheese in her sandwich.",
+      "sentence_ar": "تضع الجبن في شطيرتها.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-109",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "rice",
+      "meaning": "أرز",
+      "sentence": "We eat rice with chicken.",
+      "sentence_ar": "نأكل الأرز مع الدجاج.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-110",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "chicken",
+      "meaning": "دجاج",
+      "sentence": "We have chicken for dinner.",
+      "sentence_ar": "نتناول الدجاج على العشاء.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-111",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "banana",
+      "meaning": "موزة",
+      "sentence": "He eats a banana after school.",
+      "sentence_ar": "يأكل موزة بعد المدرسة.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-112",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "money",
+      "meaning": "مال",
+      "sentence": "I need some money for the bus.",
+      "sentence_ar": "أحتاج إلى بعض المال للحافلة.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-113",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "bag",
+      "meaning": "حقيبة",
+      "sentence": "My shopping bag is heavy.",
+      "sentence_ar": "حقيبة التسوق الخاصة بي ثقيلة.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-114",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "supermarket",
+      "meaning": "سوبرماركت",
+      "sentence": "We buy eggs at the supermarket.",
+      "sentence_ar": "نشتري البيض من السوبرماركت.",
+      "topic": "الطعام والتسوق",
+      "id": "a1-vocab-115",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "station",
+      "meaning": "محطة",
+      "sentence": "The train leaves from this station.",
+      "sentence_ar": "ينطلق القطار من هذه المحطة.",
+      "topic": "المدينة والاتجاهات",
+      "id": "a1-vocab-116",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "train",
+      "meaning": "قطار",
+      "sentence": "I go to the city by train.",
+      "sentence_ar": "أذهب إلى المدينة بالقطار.",
+      "topic": "المدينة والاتجاهات",
+      "id": "a1-vocab-117",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "car",
+      "meaning": "سيارة",
+      "sentence": "My father drives a blue car.",
+      "sentence_ar": "يقود أبي سيارة زرقاء.",
+      "topic": "المدينة والاتجاهات",
+      "id": "a1-vocab-118",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "corner",
+      "meaning": "زاوية",
+      "sentence": "The bank is on the corner.",
+      "sentence_ar": "يقع البنك عند زاوية الشارع.",
+      "topic": "المدينة والاتجاهات",
+      "id": "a1-vocab-119",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "cloudy",
+      "meaning": "غائم",
+      "sentence": "It is cloudy this afternoon.",
+      "sentence_ar": "الجو غائم بعد ظهر اليوم.",
+      "topic": "الهوايات والطقس",
+      "id": "a1-vocab-120",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "cold",
+      "meaning": "بارد",
+      "sentence": "It is cold outside today.",
+      "sentence_ar": "الجو بارد في الخارج اليوم.",
+      "topic": "الهوايات والطقس",
+      "id": "a1-vocab-121",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "music",
+      "meaning": "موسيقى",
+      "sentence": "I listen to music at home.",
+      "sentence_ar": "أستمع إلى الموسيقى في المنزل.",
+      "topic": "الهوايات والطقس",
+      "id": "a1-vocab-122",
+      "source": "new_curriculum_2026"
+    },
+    {
+      "word": "dance",
+      "meaning": "يرقص",
+      "sentence": "I dance with my friends at the party.",
+      "sentence_ar": "أرقص مع أصدقائي في الحفلة.",
+      "topic": "الهوايات والطقس",
+      "id": "a1-vocab-123",
+      "source": "new_curriculum_2026"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "a1-quiz-01",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Example",
+      "options": [
+        "فكرة",
+        "سؤال",
+        "إجابة",
+        "مثال"
+      ],
+      "answer": 3,
+      "explanation_ar": "كلمة Example تعني: مثال."
+    },
+    {
+      "id": "a1-quiz-02",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Idea",
+      "options": [
+        "إجابة",
+        "المدينة الأم / مسقط الرأس",
+        "فكرة",
+        "سؤال"
+      ],
+      "answer": 2,
+      "explanation_ar": "كلمة Idea تعني: فكرة."
+    },
+    {
+      "id": "a1-quiz-03",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Question",
+      "options": [
+        "العمل",
+        "سؤال",
+        "إجابة",
+        "المدينة الأم / مسقط الرأس"
+      ],
+      "answer": 1,
+      "explanation_ar": "كلمة Question تعني: سؤال."
+    },
+    {
+      "id": "a1-quiz-04",
+      "type": "vocabulary",
+      "q": "اختر المعنى الصحيح للكلمة: Answer",
+      "options": [
+        "إجابة",
+        "المدينة الأم / مسقط الرأس",
+        "العمل",
+        "الدراسة"
+      ],
+      "answer": 0,
+      "explanation_ar": "كلمة Answer تعني: إجابة."
+    },
+    {
+      "id": "a1-quiz-05",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ My hometown is a small city near the sea.",
+      "options": [
+        "يساعدنا السفر على التعرّف إلى ثقافات مختلفة.",
+        "تتناول عائلتي العشاء معًا كل يوم جمعة.",
+        "مدينتي الأم مدينة صغيرة قرب البحر.",
+        "يمنحني الطعام الطازج الطاقة طوال اليوم."
+      ],
+      "answer": 2,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "a1-quiz-06",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ I work at a bookstore near my home.",
+      "options": [
+        "غالبًا ما يساعدني أصدقائي عندما أشعر بالقلق.",
+        "أعمل في مكتبة لبيع الكتب بالقرب من منزلي.",
+        "يساعدنا السفر على التعرّف إلى ثقافات مختلفة.",
+        "تتناول عائلتي العشاء معًا كل يوم جمعة."
+      ],
+      "answer": 1,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "a1-quiz-07",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ I study English for thirty minutes each evening.",
+      "options": [
+        "أدرس الإنجليزية لمدة ثلاثين دقيقة كل مساء.",
+        "تتناول عائلتي العشاء معًا كل يوم جمعة.",
+        "غالبًا ما يساعدني أصدقائي عندما أشعر بالقلق.",
+        "حكى لنا قصة مضحكة عن وظيفته الأولى."
+      ],
+      "answer": 0,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "a1-quiz-08",
+      "type": "sentence",
+      "q": "ما الترجمة الصحيحة للجملة؟ My favorite hobby is painting pictures of flowers.",
+      "options": [
+        "غالبًا ما يساعدني أصدقائي عندما أشعر بالقلق.",
+        "حكى لنا قصة مضحكة عن وظيفته الأولى.",
+        "يساعدني الروتين اليومي البسيط على تنظيم وقتي.",
+        "هوايتي المفضلة هي رسم صور للزهور."
+      ],
+      "answer": 3,
+      "explanation_ar": "راجع معنى الكلمات داخل السياق، وليس ترجمة الكلمة منفردة فقط."
+    },
+    {
+      "id": "a1-quiz-09",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «ضمائر الفاعل والملكية»؟",
+      "options": [
+        "She works at a hospital, but she does not work on Friday.",
+        "My sister is a teacher. Her students are friendly.",
+        "Are you ready? — Yes, I am.",
+        "I have an umbrella and two books. The umbrella is blue."
+      ],
+      "answer": 1,
+      "explanation_ar": "نستخدم I, you, he, she, it, we, they للفاعل، وmy, your, his, her, its, our, their لبيان الملكية. اختر الضمير حسب من يقوم بالفعل، ثم استخدم ضمير الملكية قبل الاسم."
+    },
+    {
+      "id": "a1-quiz-10",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «فعل be في الإثبات والنفي والسؤال»؟",
+      "options": [
+        "Are you ready? — Yes, I am.",
+        "I have an umbrella and two books. The umbrella is blue.",
+        "She works at a hospital, but she does not work on Friday.",
+        "There are three chairs in the room."
+      ],
+      "answer": 0,
+      "explanation_ar": "يأتي am مع I، وis مع he/she/it، وare مع you/we/they. للنفي نضيف not، وللسؤال نقدم فعل be. استخدمه للتعريف والصفات والمكان والعمر."
+    },
+    {
+      "id": "a1-quiz-11",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «أدوات التنكير والتعريف والجمع»؟",
+      "options": [
+        "She works at a hospital, but she does not work on Friday.",
+        "There are three chairs in the room.",
+        "I have got a new phone.",
+        "I have an umbrella and two books. The umbrella is blue."
+      ],
+      "answer": 3,
+      "explanation_ar": "نستخدم a قبل اسم مفرد يبدأ بصوت ساكن، وan قبل صوت متحرك، وthe لشيء محدد، ونضيف s غالبًا للجمع. طبّقها عند ذكر الأشخاص والأشياء لأول مرة أو عند تحديدها."
+    },
+    {
+      "id": "a1-quiz-12",
+      "type": "grammar",
+      "q": "أي مثال يطبق قاعدة «المضارع البسيط»؟",
+      "options": [
+        "I have got a new phone.",
+        "Can you help me? I can carry this bag.",
+        "She works at a hospital, but she does not work on Friday.",
+        "There are three chairs in the room."
+      ],
+      "answer": 2,
+      "explanation_ar": "يتكون من الفعل الأساسي، ونضيف s أو es مع he/she/it. في النفي والسؤال نستخدم do/does. للعادات والحقائق والروتين."
+    }
+  ],
+  "can_do": [
+    "التعريف بالنفس وطرح أسئلة بسيطة عن المعلومات الشخصية.",
+    "فهم عبارات يومية قصيرة إذا قيلت بوضوح وببطء.",
+    "وصف المنزل والعائلة والروتين بجمل قصيرة."
+  ],
+  "course_file": "data/courses/A1.json"
+}
