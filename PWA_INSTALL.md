@@ -1,5 +1,7 @@
 # تثبيت معهد الأنوار كتطبيق PWA على Android
 
+يجب أن يكون رابط GitHub Pages مفعّلًا أولًا من إعدادات المستودع. حاليًا يحتاج المشرف إلى اختيار **GitHub Actions** في **Settings → Pages → Build and deployment → Source**؛ بعد هذه الخطوة ينشر سير العمل الموقع تلقائيًا.
+
 ## التثبيت على Android
 
 1. افتح [رابط معهد الأنوار](https://aladrisiaymenan-eng.github.io/al-anwar-english-learning-pwa/) في متصفح Chrome على الهاتف.
