@@ -102,3 +102,8 @@ PWA_INSTALL.md               تعليمات التثبيت والعمل دون �
 ## الملكية والمساهمة
 
 هذا مستودع عام للاطلاع والتنزيل. لم يُرفق ترخيص مفتوح؛ لذلك لا يعني إتاحته للعامة التنازل عن حقوق المحتوى أو منح حق إعادة الاستخدام التجاري.
+
+
+## تنزيل المشروع
+
+[تحميل حزمة المشروع كاملة بصيغة ZIP من صفحة الإصدارات](https://github.com/aladrisiaymenan-eng/al-anwar-english-learning-pwa/releases/latest/download/al-anwar-english-learning-pwa.zip). أما تثبيت التطبيق كـPWA فيكون بفتح [رابط التطبيق](https://aladrisiaymenan-eng.github.io/al-anwar-english-learning-pwa/) في Chrome ثم اختيار **تثبيت التطبيق**؛ لا يتطلب ذلك تنزيل APK.
